@@ -8006,6 +8006,14 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "Google Play",
+                            "type": "url",
+                            "url": "https://play.google.com/store",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "7-ELEVEN交貨便",
                             "type": "url",
                             "url": "https://myship.7-11.com.tw/",
@@ -9476,6 +9484,39 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "Google Play",
+                            "type": "url",
+                            "url": "https://play.google.com/store",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "K9 Web Protection - Free download and software reviews - CNET Download.com",
+                            "type": "url",
+                            "url": "https://download.cnet.com/K9-Web-Protection/3000-27064_4-10487710.html",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "K9 Web Protection - Download",
+                            "type": "url",
+                            "url": "https://k9-web-protection.en.softonic.com/",
+                            "visit_count": 0
+                        }
+                    ],
+                    "description": "",
+                    "expanded": false,
+                    "expanded_sidebar": false,
+                    "name": "Software Downloads",
+                    "type": "folder"
+                },
+                {
+                    "children": [
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "World Gym 健身俱樂部| World Gym Fitness Center",
                             "type": "url",
                             "url": "http://www.worldgymtaiwan.com/",
@@ -9552,31 +9593,6 @@
                     "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Remote Access Tools",
-                    "type": "folder"
-                },
-                {
-                    "children": [
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "K9 Web Protection - Free download and software reviews - CNET Download.com",
-                            "type": "url",
-                            "url": "https://download.cnet.com/K9-Web-Protection/3000-27064_4-10487710.html",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "K9 Web Protection - Download",
-                            "type": "url",
-                            "url": "https://k9-web-protection.en.softonic.com/",
-                            "visit_count": 0
-                        }
-                    ],
-                    "description": "",
-                    "expanded": false,
-                    "expanded_sidebar": false,
-                    "name": "Software Downloads",
                     "type": "folder"
                 },
                 {
