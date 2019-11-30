@@ -1795,7 +1795,7 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 147
+                                    "visit_count": 148
                                 }
                             ],
                             "description": "",
@@ -8799,6 +8799,14 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "Han Dynasty",
+                            "type": "url",
+                            "url": "http://handynasty.net/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "FamilyMart 全家便利商店",
                             "type": "url",
                             "url": "https://www.family.com.tw/Marketing/index.aspx",
@@ -8942,7 +8950,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Restaurants / Dining / Food",
                     "type": "folder"
