@@ -1803,11 +1803,11 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 148
+                                    "visit_count": 150
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "K9",
                             "type": "folder"
@@ -3264,7 +3264,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -7463,6 +7463,22 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "www.tybus.com.tw",
+                            "type": "url",
+                            "url": "http://www.tybus.com.tw/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "台灣高鐵 Taiwan High Speed Rail",
+                            "type": "url",
+                            "url": "http://www.thsrc.com.tw/index.html",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "Short Line Bus | PDF Schedules",
                             "type": "url",
                             "url": "https://web.coachusa.com/info/shortline/ss.pdfschedules.asp",
@@ -7734,7 +7750,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Travel",
                     "type": "folder"
@@ -8474,7 +8490,7 @@
                                     "name": "Calendar - Outlook",
                                     "type": "url",
                                     "url": "https://outlook.live.com/calendar/",
-                                    "visit_count": 0
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
@@ -8958,7 +8974,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Restaurants / Dining / Food",
                     "type": "folder"
