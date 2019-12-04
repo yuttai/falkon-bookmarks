@@ -938,80 +938,16 @@
                         {
                             "description": "",
                             "keyword": "",
-                            "name": "台北數位集團 - Google Ads 關鍵字廣告",
-                            "type": "url",
-                            "url": "https://www.taipeiads.com/gad.php",
-                            "visit_count": 4
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
                             "name": "CHI MOTOR WEB ERP 登入",
                             "type": "url",
                             "url": "http://192.168.0.15/MotorWeb/CHIPage/Login.aspx?Page=~/default.aspx",
                             "visit_count": 2
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "台北數位集團_台北數位廣告股份有限公司＜公司簡介及所有工作機會＞─104人力銀行",
-                            "type": "url",
-                            "url": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4c424a733c3e466f383a426b40463e21931313176484e5c7109j99&jobsource=checkc",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "台灣、中國、大中華區製造商、供應商、出口商名錄及產品目錄- tw.allproducts.com",
-                            "type": "url",
-                            "url": "https://tw.allproducts.com/",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "亞普達 – 網路行銷, 搜尋引擎優化, Google Ads, 關鍵字廣告",
-                            "type": "url",
-                            "url": "https://home.allproducts.com/",
-                            "visit_count": 1
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "數位業務銷售認證 : Google",
-                            "type": "url",
-                            "url": "https://academy.exceedlms.com/student/path/2896-",
-                            "visit_count": 3
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "Market Algorithms – Google AI",
-                            "type": "url",
-                            "url": "https://ai.google/research/teams/algorithms-optimization/market-algorithms/",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "兒童平板,幼教專家- Kizpad首頁",
-                            "type": "url",
-                            "url": "https://www.kizpad.com/",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "尋找特定產品的學習路徑 - Academy for Ads說明",
-                            "type": "url",
-                            "url": "https://support.google.com/academyforads/answer/7311522?hl=zh-Hant&ref_topic=6373386",
-                            "visit_count": 0
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
-                    "name": "亞普達公司",
+                    "name": "亞普達公司內網",
                     "type": "folder"
                 },
                 {
@@ -1803,7 +1739,7 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 150
+                                    "visit_count": 152
                                 }
                             ],
                             "description": "",
@@ -2097,9 +2033,138 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Xiaomi",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "尋找特定產品的學習路徑 - Academy for Ads說明",
+                                    "type": "url",
+                                    "url": "https://support.google.com/academyforads/answer/7311522?hl=zh-Hant&ref_topic=6373386",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Market Algorithms – Google AI",
+                                    "type": "url",
+                                    "url": "https://ai.google/research/teams/algorithms-optimization/market-algorithms/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google Developers",
+                                    "type": "url",
+                                    "url": "https://developers.google.com/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Sheets API  |  Google Developers",
+                                    "type": "url",
+                                    "url": "https://developers.google.com/sheets/api/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Meet",
+                                    "type": "url",
+                                    "url": "https://meet.google.com/?authuser=0",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Get Started  |  AdWords API  |  Google Developers",
+                                    "type": "url",
+                                    "url": "https://developers.google.com/adwords/api/docs/guides/start",
+                                    "visit_count": 1
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Product Overview  |  Google Ads API Beta  |  Google Developers",
+                                    "type": "url",
+                                    "url": "https://developers.google.com/google-ads/api/docs/start",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Download Android Studio and SDK tools",
+                                    "type": "url",
+                                    "url": "https://developer.android.com/studio/index.html",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Machine Learning Crash Course  |  Google Developers",
+                                    "type": "url",
+                                    "url": "https://developers.google.com/machine-learning/crash-course/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Android Developers",
+                                    "type": "url",
+                                    "url": "https://developer.android.com/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Android",
+                                    "type": "url",
+                                    "url": "https://www.android.com/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google Code Archive - Long-term storage for Google Code Project Hosting.",
+                                    "type": "url",
+                                    "url": "https://code.google.com/archive/p/googledrivesync-chrome/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "android Git repositories - Git at Google",
+                                    "type": "url",
+                                    "url": "https://android.googlesource.com/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Android – Android For Employees",
+                                    "type": "url",
+                                    "url": "https://www.android.com/enterprise/employees/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Compare your mobile site speed",
+                                    "type": "url",
+                                    "url": "https://www.thinkwithgoogle.com/feature/testmysite",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": true,
+                            "expanded_sidebar": false,
+                            "name": "Google",
                             "type": "folder"
                         },
                         {
@@ -2218,122 +2283,9 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Microsoft",
-                            "type": "folder"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google Developers",
-                                    "type": "url",
-                                    "url": "https://developers.google.com/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Sheets API  |  Google Developers",
-                                    "type": "url",
-                                    "url": "https://developers.google.com/sheets/api/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Meet",
-                                    "type": "url",
-                                    "url": "https://meet.google.com/?authuser=0",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Get Started  |  AdWords API  |  Google Developers",
-                                    "type": "url",
-                                    "url": "https://developers.google.com/adwords/api/docs/guides/start",
-                                    "visit_count": 1
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Product Overview  |  Google Ads API Beta  |  Google Developers",
-                                    "type": "url",
-                                    "url": "https://developers.google.com/google-ads/api/docs/start",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Download Android Studio and SDK tools",
-                                    "type": "url",
-                                    "url": "https://developer.android.com/studio/index.html",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Machine Learning Crash Course  |  Google Developers",
-                                    "type": "url",
-                                    "url": "https://developers.google.com/machine-learning/crash-course/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Android Developers",
-                                    "type": "url",
-                                    "url": "https://developer.android.com/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Android",
-                                    "type": "url",
-                                    "url": "https://www.android.com/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google Code Archive - Long-term storage for Google Code Project Hosting.",
-                                    "type": "url",
-                                    "url": "https://code.google.com/archive/p/googledrivesync-chrome/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "android Git repositories - Git at Google",
-                                    "type": "url",
-                                    "url": "https://android.googlesource.com/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Android – Android For Employees",
-                                    "type": "url",
-                                    "url": "https://www.android.com/enterprise/employees/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Compare your mobile site speed",
-                                    "type": "url",
-                                    "url": "https://www.thinkwithgoogle.com/feature/testmysite",
-                                    "visit_count": 0
-                                }
-                            ],
-                            "description": "",
-                            "expanded": false,
-                            "expanded_sidebar": false,
-                            "name": "Google",
                             "type": "folder"
                         },
                         {
@@ -2889,6 +2841,14 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "ADCORE Views - Login",
+                            "type": "url",
+                            "url": "https://apps.adcore.com/login",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "393618 – bookmark sync is missing",
                             "type": "url",
                             "url": "https://bugs.kde.org/show_bug.cgi?id=393618",
@@ -3264,7 +3224,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -4723,9 +4683,50 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "The New York Public Library",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Catalog : Google",
+                                    "type": "url",
+                                    "url": "https://academy.exceedlms.com/student/catalog",
+                                    "visit_count": 2
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google Ads Fundamentals : Google",
+                                    "type": "url",
+                                    "url": "https://academy.exceedlms.com/student/path/3132-google-ads-fundamentals",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "My Profile : Google",
+                                    "type": "url",
+                                    "url": "https://academy.exceedlms.com/profiles/34b891fbf51a4c17b422bd80f963fa4f",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "數位業務銷售認證 : Google",
+                                    "type": "url",
+                                    "url": "https://academy.exceedlms.com/student/path/2896-",
+                                    "visit_count": 3
+                                }
+                            ],
+                            "description": "",
+                            "expanded": true,
+                            "expanded_sidebar": false,
+                            "name": "Google",
                             "type": "folder"
                         },
                         {
@@ -4756,7 +4757,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Brooklyn Public Library",
                             "type": "folder"
@@ -4789,7 +4790,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "教育部",
                             "type": "folder"
@@ -4822,7 +4823,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "ETS",
                             "type": "folder"
@@ -4855,42 +4856,9 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "University of Missouri",
-                            "type": "folder"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Catalog : Google",
-                                    "type": "url",
-                                    "url": "https://academy.exceedlms.com/student/catalog",
-                                    "visit_count": 2
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google Ads Fundamentals : Google",
-                                    "type": "url",
-                                    "url": "https://academy.exceedlms.com/student/path/3132-google-ads-fundamentals",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "My Profile : Google",
-                                    "type": "url",
-                                    "url": "https://academy.exceedlms.com/profiles/34b891fbf51a4c17b422bd80f963fa4f",
-                                    "visit_count": 0
-                                }
-                            ],
-                            "description": "",
-                            "expanded": false,
-                            "expanded_sidebar": false,
-                            "name": "Google",
                             "type": "folder"
                         },
                         {
@@ -5250,7 +5218,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Education",
                     "type": "folder"
@@ -6906,7 +6874,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Government / Legal",
                     "type": "folder"
@@ -6944,6 +6912,31 @@
                             "expanded": false,
                             "expanded_sidebar": false,
                             "name": "中華郵政",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "台灣、中國、大中華區製造商、供應商、出口商名錄及產品目錄- tw.allproducts.com",
+                                    "type": "url",
+                                    "url": "https://tw.allproducts.com/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "亞普達 – 網路行銷, 搜尋引擎優化, Google Ads, 關鍵字廣告",
+                                    "type": "url",
+                                    "url": "https://home.allproducts.com/",
+                                    "visit_count": 1
+                                }
+                            ],
+                            "description": "",
+                            "expanded": true,
+                            "expanded_sidebar": false,
+                            "name": "亞普達",
                             "type": "folder"
                         },
                         {
@@ -7095,6 +7088,14 @@
                             "expanded_sidebar": false,
                             "name": "Wolfram",
                             "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "台北數位集團 - Google Ads 關鍵字廣告",
+                            "type": "url",
+                            "url": "https://www.taipeiads.com/gad.php",
+                            "visit_count": 4
                         },
                         {
                             "description": "",
@@ -7370,7 +7371,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Business / Economy",
                     "type": "folder"
@@ -7750,7 +7751,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Travel",
                     "type": "folder"
@@ -7970,7 +7971,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Newsgroups / Forums",
                     "type": "folder"
@@ -8026,6 +8027,14 @@
                             "expanded_sidebar": false,
                             "name": "北美省钱快报 Dealmoon.com",
                             "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "兒童平板,幼教專家- Kizpad首頁",
+                            "type": "url",
+                            "url": "https://www.kizpad.com/",
+                            "visit_count": 0
                         },
                         {
                             "description": "",
@@ -8165,7 +8174,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Shopping",
                     "type": "folder"
@@ -8459,9 +8468,132 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Search Engines / Portals",
+                    "type": "folder"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Glassdoor Job Search | Find the job that fits your life",
+                                    "type": "url",
+                                    "url": "https://www.glassdoor.com/index.htm",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "latex Long Island City, NY Jobs | Glassdoor",
+                                    "type": "url",
+                                    "url": "https://www.glassdoor.com/Job/jobs.htm?sc.keyword=LaTeX&locT=C&locId=1132310&locKeyword=Long%20Island%20City,%20NY&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=25&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "VBA Long Island City, NY Jobs | Glassdoor",
+                                    "type": "url",
+                                    "url": "https://www.glassdoor.com/Job/long-island-city-vba-jobs-SRCH_IL.0,16_IC1132310_KE17,20_IP2.htm?radius=25&applicationType=1",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Security Researcher Jobs in New York, NY | Glassdoor",
+                                    "type": "url",
+                                    "url": "https://www.glassdoor.com/Job/new-york-security-researcher-jobs-SRCH_IL.0,8_IC1132348_KO9,28.htm?jl=2829928133&ja=224&jaguid=0000016918f575939887dc3fb801ddc3&pos=104&src=GD_JOB_AD&srs=EMAIL_EXACT_MATCH&s=224&ao=368687&utm_source=exactMatch&utm_medium=email&utm_campaign=em-email&utm_content=exact-match-recjob-3&utm_term=",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Molloy College Full-Time Tenure Track Position in Computer Information Systems Job in Rockville Centre, NY | Glassdoor",
+                                    "type": "url",
+                                    "url": "https://www.glassdoor.com/job-listing/full-time-tenure-track-position-in-computer-information-systems-molloy-college-JV_IC1132393_KO0,63_KE64,78.htm?jl=2795015866",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "Glassdoor",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Job Search | Indeed",
+                                    "type": "url",
+                                    "url": "https://www.indeed.com/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "2019 Internship/Co-op - Engineering -Skaneateles, NY - New York, NY 10022 - Indeed.com",
+                                    "type": "url",
+                                    "url": "https://www.indeed.com/viewjob?jk=de85dd49d9460220&tk=1d4pckatk19t8003&from=serp&vjs=3",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Analyst, Intern (2019) - New York, NY 10004 - Indeed.com",
+                                    "type": "url",
+                                    "url": "https://www.indeed.com/viewjob?from=web,iaBackPress&jk=fca9b96449f06e97&l=Long%20Island%20City,%20NY&q=Mathematica&tk=1d4pf06880gg3002&vjs=3",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Associate - Machine Learning - New York, NY 10022 - Indeed.com",
+                                    "type": "url",
+                                    "url": "https://www.indeed.com/viewjob?jk=47ddb3b603a79642&tk=1d4pcs1vu19t8003&from=serp&vjs=3",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "Indeed",
+                            "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "台北數位集團_台北數位廣告股份有限公司＜公司簡介及所有工作機會＞─104人力銀行",
+                            "type": "url",
+                            "url": "https://www.104.com.tw/jobbank/custjob/index.php?r=cust&j=4c424a733c3e466f383a426b40463e21931313176484e5c7109j99&jobsource=checkc",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "Candidate Portal",
+                            "type": "url",
+                            "url": "https://www2.jobdiva.com/portal/#/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "Posts containing &#39;python format f&#39; - Stack Overflow",
+                            "type": "url",
+                            "url": "https://stackoverflow.com/search?q=Python+format+f",
+                            "visit_count": 0
+                        }
+                    ],
+                    "description": "",
+                    "expanded": true,
+                    "expanded_sidebar": false,
+                    "name": "Job Search / Careers",
                     "type": "folder"
                 },
                 {
@@ -8569,121 +8701,6 @@
                     "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Email",
-                    "type": "folder"
-                },
-                {
-                    "children": [
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Glassdoor Job Search | Find the job that fits your life",
-                                    "type": "url",
-                                    "url": "https://www.glassdoor.com/index.htm",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "latex Long Island City, NY Jobs | Glassdoor",
-                                    "type": "url",
-                                    "url": "https://www.glassdoor.com/Job/jobs.htm?sc.keyword=LaTeX&locT=C&locId=1132310&locKeyword=Long%20Island%20City,%20NY&jobType=all&fromAge=-1&minSalary=0&includeNoSalaryJobs=true&radius=25&cityId=-1&minRating=0.0&industryId=-1&sgocId=-1&companyId=-1&employerSizes=0&applicationType=0&remoteWorkType=0",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "VBA Long Island City, NY Jobs | Glassdoor",
-                                    "type": "url",
-                                    "url": "https://www.glassdoor.com/Job/long-island-city-vba-jobs-SRCH_IL.0,16_IC1132310_KE17,20_IP2.htm?radius=25&applicationType=1",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Security Researcher Jobs in New York, NY | Glassdoor",
-                                    "type": "url",
-                                    "url": "https://www.glassdoor.com/Job/new-york-security-researcher-jobs-SRCH_IL.0,8_IC1132348_KO9,28.htm?jl=2829928133&ja=224&jaguid=0000016918f575939887dc3fb801ddc3&pos=104&src=GD_JOB_AD&srs=EMAIL_EXACT_MATCH&s=224&ao=368687&utm_source=exactMatch&utm_medium=email&utm_campaign=em-email&utm_content=exact-match-recjob-3&utm_term=",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Molloy College Full-Time Tenure Track Position in Computer Information Systems Job in Rockville Centre, NY | Glassdoor",
-                                    "type": "url",
-                                    "url": "https://www.glassdoor.com/job-listing/full-time-tenure-track-position-in-computer-information-systems-molloy-college-JV_IC1132393_KO0,63_KE64,78.htm?jl=2795015866",
-                                    "visit_count": 0
-                                }
-                            ],
-                            "description": "",
-                            "expanded": false,
-                            "expanded_sidebar": false,
-                            "name": "Glassdoor",
-                            "type": "folder"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Job Search | Indeed",
-                                    "type": "url",
-                                    "url": "https://www.indeed.com/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "2019 Internship/Co-op - Engineering -Skaneateles, NY - New York, NY 10022 - Indeed.com",
-                                    "type": "url",
-                                    "url": "https://www.indeed.com/viewjob?jk=de85dd49d9460220&tk=1d4pckatk19t8003&from=serp&vjs=3",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Analyst, Intern (2019) - New York, NY 10004 - Indeed.com",
-                                    "type": "url",
-                                    "url": "https://www.indeed.com/viewjob?from=web,iaBackPress&jk=fca9b96449f06e97&l=Long%20Island%20City,%20NY&q=Mathematica&tk=1d4pf06880gg3002&vjs=3",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Associate - Machine Learning - New York, NY 10022 - Indeed.com",
-                                    "type": "url",
-                                    "url": "https://www.indeed.com/viewjob?jk=47ddb3b603a79642&tk=1d4pcs1vu19t8003&from=serp&vjs=3",
-                                    "visit_count": 0
-                                }
-                            ],
-                            "description": "",
-                            "expanded": false,
-                            "expanded_sidebar": false,
-                            "name": "Indeed",
-                            "type": "folder"
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "Candidate Portal",
-                            "type": "url",
-                            "url": "https://www2.jobdiva.com/portal/#/",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "Posts containing &#39;python format f&#39; - Stack Overflow",
-                            "type": "url",
-                            "url": "https://stackoverflow.com/search?q=Python+format+f",
-                            "visit_count": 0
-                        }
-                    ],
-                    "description": "",
-                    "expanded": false,
-                    "expanded_sidebar": false,
-                    "name": "Job Search / Careers",
                     "type": "folder"
                 },
                 {
