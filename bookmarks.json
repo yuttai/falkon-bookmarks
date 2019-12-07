@@ -945,7 +945,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "亞普達公司內網",
                     "type": "folder"
@@ -1703,6 +1703,14 @@
                                             "type": "url",
                                             "url": "https://www.tpg.gov.tw/tpg/",
                                             "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "www.exit.rocks",
+                                            "type": "url",
+                                            "url": "https://www.exit.rocks/",
+                                            "visit_count": 0
                                         }
                                     ],
                                     "description": "",
@@ -1739,7 +1747,7 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 152
+                                    "visit_count": 154
                                 }
                             ],
                             "description": "",
@@ -2033,7 +2041,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Xiaomi",
                             "type": "folder"
@@ -2162,7 +2170,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Google",
                             "type": "folder"
@@ -2283,7 +2291,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Microsoft",
                             "type": "folder"
@@ -3224,7 +3232,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -4683,7 +4691,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "The New York Public Library",
                             "type": "folder"
@@ -4724,7 +4732,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Google",
                             "type": "folder"
@@ -4757,7 +4765,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Brooklyn Public Library",
                             "type": "folder"
@@ -4790,7 +4798,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "教育部",
                             "type": "folder"
@@ -4823,7 +4831,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "ETS",
                             "type": "folder"
@@ -4856,7 +4864,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "University of Missouri",
                             "type": "folder"
@@ -5218,7 +5226,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Education",
                     "type": "folder"
@@ -6691,6 +6699,14 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "桃園市公車動態資訊系統",
+                            "type": "url",
+                            "url": "https://ebus.tycg.gov.tw/NewTaoyuan/Default.aspx",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "申請電子旅行證 （eTA） - Canada.ca",
                             "type": "url",
                             "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply-zh.html",
@@ -7475,7 +7491,7 @@
                             "name": "台灣高鐵 Taiwan High Speed Rail",
                             "type": "url",
                             "url": "http://www.thsrc.com.tw/index.html",
-                            "visit_count": 0
+                            "visit_count": 1
                         },
                         {
                             "description": "",
@@ -8622,7 +8638,7 @@
                                     "name": "Calendar - Outlook",
                                     "type": "url",
                                     "url": "https://outlook.live.com/calendar/",
-                                    "visit_count": 1
+                                    "visit_count": 2
                                 },
                                 {
                                     "description": "",
