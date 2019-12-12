@@ -1747,7 +1747,7 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 154
+                                    "visit_count": 155
                                 }
                             ],
                             "description": "",
@@ -2291,7 +2291,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Microsoft",
                             "type": "folder"
@@ -2304,15 +2304,7 @@
                                     "name": "AT&T® Official - Entertainment, TV, Wireless &amp;amp; Internet",
                                     "type": "url",
                                     "url": "https://www.att.com/",
-                                    "visit_count": 5
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Unlock a Phone or Device - AT&T Device Unlock Portal",
-                                    "type": "url",
-                                    "url": "https://www.att.com/deviceunlock/#/",
-                                    "visit_count": 1
+                                    "visit_count": 6
                                 },
                                 {
                                     "description": "",
@@ -2321,6 +2313,22 @@
                                     "type": "url",
                                     "url": "https://www.paygonline.com/websc/loginPage.html",
                                     "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Results for suspend wireless service - AT&T Search",
+                                    "type": "url",
+                                    "url": "https://www.att.com/global-search/search?q=suspend+wireless+service&autoSuggest=true",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Unlock a Phone or Device - AT&T Device Unlock Portal",
+                                    "type": "url",
+                                    "url": "https://www.att.com/deviceunlock/#/",
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
@@ -2364,7 +2372,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "AT&T",
                             "type": "folder"
@@ -3232,7 +3240,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -6890,7 +6898,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Government / Legal",
                     "type": "folder"
@@ -7387,7 +7395,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Business / Economy",
                     "type": "folder"
@@ -7987,7 +7995,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Newsgroups / Forums",
                     "type": "folder"
@@ -8190,7 +8198,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Shopping",
                     "type": "folder"
@@ -8484,7 +8492,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Search Engines / Portals",
                     "type": "folder"
@@ -8607,7 +8615,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Job Search / Careers",
                     "type": "folder"
@@ -8630,7 +8638,7 @@
                                     "name": "Mail - Outlook",
                                     "type": "url",
                                     "url": "https://outlook.live.com/mail/",
-                                    "visit_count": 0
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
