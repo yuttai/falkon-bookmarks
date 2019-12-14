@@ -1711,6 +1711,14 @@
                                             "type": "url",
                                             "url": "https://www.exit.rocks/",
                                             "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "tsline-tsbank.cdn.hinet.net",
+                                            "type": "url",
+                                            "url": "https://tsline-tsbank.cdn.hinet.net/mlbc/bcbinding?luid=cnVbobMGwqSRxgmLRURX7Lplvh8HIC40HA2pQ2XlvADhg2Hlnwjf3XztGJlPq1KU&utm_source=line&utm_medium=menu20181218&utm_campaign=bcfirst&utm_content=menu",
+                                            "visit_count": 0
                                         }
                                     ],
                                     "description": "",
@@ -1747,7 +1755,7 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 155
+                                    "visit_count": 157
                                 }
                             ],
                             "description": "",
@@ -3240,7 +3248,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -6219,6 +6227,119 @@
                                 {
                                     "description": "",
                                     "keyword": "",
+                                    "name": "臺北市政府全球資訊網",
+                                    "type": "url",
+                                    "url": "https://www.gov.taipei/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "臺北自來水事業處",
+                                    "type": "url",
+                                    "url": "https://www.water.gov.taipei/Default.aspx",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "大臺北公車 - 南軟通勤專車天母線",
+                                    "type": "url",
+                                    "url": "https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0152003100",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "大臺北公車 - 南軟通勤專車北投線",
+                                    "type": "url",
+                                    "url": "https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0152003200",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "南軟通勤專車天母線 - 去程",
+                                    "type": "url",
+                                    "url": "http://e-bus.taipei.gov.tw/newmap/Tw/Map?rid=15695&sec=0",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "南軟通勤專車北投線 - 去程",
+                                    "type": "url",
+                                    "url": "http://e-bus.taipei.gov.tw/newmap/Tw/Map?rid=15696&sec=0",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "臺北市政府環境保護局",
+                                    "type": "url",
+                                    "url": "http://www.dep-in.gov.taipei/epb/iframe/trash.aspx",
+                                    "visit_count": 1
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "臺北市公共運輸處 - 公車動態資訊系統",
+                                    "type": "url",
+                                    "url": "http://e-bus.taipei.gov.tw/index_6_1.html",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "大臺北公車",
+                                    "type": "url",
+                                    "url": "https://ebus.gov.taipei/",
+                                    "visit_count": 2
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "臺北市北投區公所-社會課答客問-健保相關問題",
+                                    "type": "url",
+                                    "url": "https://btdo.gov.taipei/News_Content.aspx?n=BFE3906D23ECB1FD&sms=59851F1175BAFBD5&s=38ED24D90EF0CAB8",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "臺北市立圖書館",
+                                    "type": "url",
+                                    "url": "https://tpml.gov.taipei/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "臺北市政府雙語詞彙查詢系統",
+                                    "type": "url",
+                                    "url": "https://bilingual.gov.taipei/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "wsearch.gov.taipei",
+                                    "type": "url",
+                                    "url": "https://wsearch.gov.taipei/wise/s.jsp?q=App&d=306",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "臺北市政府",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
                                     "name": "Homepage | USCIS",
                                     "type": "url",
                                     "url": "https://www.uscis.gov/",
@@ -6317,103 +6438,6 @@
                             "expanded": false,
                             "expanded_sidebar": false,
                             "name": "U.S. Citizenship and Immigration Services",
-                            "type": "folder"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "臺北市政府全球資訊網",
-                                    "type": "url",
-                                    "url": "https://www.gov.taipei/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "大臺北公車 - 南軟通勤專車天母線",
-                                    "type": "url",
-                                    "url": "https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0152003100",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "大臺北公車 - 南軟通勤專車北投線",
-                                    "type": "url",
-                                    "url": "https://ebus.gov.taipei/Route/StopsOfRoute?routeid=0152003200",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "南軟通勤專車天母線 - 去程",
-                                    "type": "url",
-                                    "url": "http://e-bus.taipei.gov.tw/newmap/Tw/Map?rid=15695&sec=0",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "南軟通勤專車北投線 - 去程",
-                                    "type": "url",
-                                    "url": "http://e-bus.taipei.gov.tw/newmap/Tw/Map?rid=15696&sec=0",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "臺北市政府環境保護局",
-                                    "type": "url",
-                                    "url": "http://www.dep-in.gov.taipei/epb/iframe/trash.aspx",
-                                    "visit_count": 1
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "臺北市公共運輸處 - 公車動態資訊系統",
-                                    "type": "url",
-                                    "url": "http://e-bus.taipei.gov.tw/index_6_1.html",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "大臺北公車",
-                                    "type": "url",
-                                    "url": "https://ebus.gov.taipei/",
-                                    "visit_count": 2
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "臺北市北投區公所-社會課答客問-健保相關問題",
-                                    "type": "url",
-                                    "url": "https://btdo.gov.taipei/News_Content.aspx?n=BFE3906D23ECB1FD&sms=59851F1175BAFBD5&s=38ED24D90EF0CAB8",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "臺北市立圖書館",
-                                    "type": "url",
-                                    "url": "https://tpml.gov.taipei/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "臺北市政府雙語詞彙查詢系統",
-                                    "type": "url",
-                                    "url": "https://bilingual.gov.taipei/",
-                                    "visit_count": 0
-                                }
-                            ],
-                            "description": "",
-                            "expanded": false,
-                            "expanded_sidebar": false,
-                            "name": "臺北市政府",
                             "type": "folder"
                         },
                         {
@@ -6898,7 +6922,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Government / Legal",
                     "type": "folder"
@@ -8638,7 +8662,7 @@
                                     "name": "Mail - Outlook",
                                     "type": "url",
                                     "url": "https://outlook.live.com/mail/",
-                                    "visit_count": 1
+                                    "visit_count": 2
                                 },
                                 {
                                     "description": "",
