@@ -1755,7 +1755,7 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 157
+                                    "visit_count": 159
                                 }
                             ],
                             "description": "",
@@ -2299,7 +2299,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Microsoft",
                             "type": "folder"
@@ -2380,7 +2380,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "AT&T",
                             "type": "folder"
@@ -2499,7 +2499,7 @@
                                     "name": "Python 2.7.16 documentation",
                                     "type": "url",
                                     "url": "https://docs.python.org/2.7/index.html",
-                                    "visit_count": 0
+                                    "visit_count": 2
                                 },
                                 {
                                     "description": "",
@@ -2861,6 +2861,14 @@
                             "expanded_sidebar": false,
                             "name": "Lenovo",
                             "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "Cheat Sheet: Writing Python 2-3 compatible code — Python-Future documentation",
+                            "type": "url",
+                            "url": "http://python-future.org/compatible_idioms.html",
+                            "visit_count": 0
                         },
                         {
                             "description": "",
@@ -3248,7 +3256,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -6922,7 +6930,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Government / Legal",
                     "type": "folder"
@@ -8726,7 +8734,7 @@
                             "name": "收件匣 - yuttai@tradeserv.com - 亞普達企業電子郵件信箱 郵件",
                             "type": "url",
                             "url": "https://mail.google.com/",
-                            "visit_count": 3
+                            "visit_count": 5
                         },
                         {
                             "description": "",
@@ -8755,6 +8763,14 @@
                     "children": [
                         {
                             "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google 試算表",
+                                    "type": "url",
+                                    "url": "https://docs.google.com/spreadsheets/u/0/",
+                                    "visit_count": 0
+                                },
                                 {
                                     "description": "",
                                     "keyword": "",
@@ -8805,7 +8821,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Google",
                             "type": "folder"
@@ -8818,7 +8834,7 @@
                                     "name": "The world’s leading software development platform · GitHub",
                                     "type": "url",
                                     "url": "https://github.com/",
-                                    "visit_count": 0
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
@@ -9181,6 +9197,14 @@
                                 {
                                     "description": "",
                                     "keyword": "",
+                                    "name": "Google 試算表",
+                                    "type": "url",
+                                    "url": "https://docs.google.com/spreadsheets/u/0/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
                                     "name": "Google 文件",
                                     "type": "url",
                                     "url": "https://docs.google.com/document/u/0/",
@@ -9220,7 +9244,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Google",
                             "type": "folder"
