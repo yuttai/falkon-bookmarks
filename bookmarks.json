@@ -941,7 +941,7 @@
                             "name": "CHI MOTOR WEB ERP 登入",
                             "type": "url",
                             "url": "http://192.168.0.15/MotorWeb/CHIPage/Login.aspx?Page=~/default.aspx",
-                            "visit_count": 2
+                            "visit_count": 3
                         }
                     ],
                     "description": "",
@@ -1563,6 +1563,14 @@
                                         {
                                             "description": "",
                                             "keyword": "",
+                                            "name": "ai4-dev.firebaseapp.com",
+                                            "type": "url",
+                                            "url": "http://ai4-dev.firebaseapp.com",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
                                             "name": "sankolan.blogspot.com",
                                             "type": "url",
                                             "url": "http://sankolan.blogspot.com",
@@ -1759,7 +1767,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "K9",
                             "type": "folder"
@@ -8734,7 +8742,7 @@
                             "name": "收件匣 - yuttai@tradeserv.com - 亞普達企業電子郵件信箱 郵件",
                             "type": "url",
                             "url": "https://mail.google.com/",
-                            "visit_count": 5
+                            "visit_count": 6
                         },
                         {
                             "description": "",
