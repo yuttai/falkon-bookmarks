@@ -936,18 +936,251 @@
                 {
                     "children": [
                         {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "ai4-dev.firebaseapp.com",
+                                            "type": "url",
+                                            "url": "http://ai4-dev.firebaseapp.com",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "sankolan.blogspot.com",
+                                            "type": "url",
+                                            "url": "http://sankolan.blogspot.com",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "http://link.levelup-mail.com/",
+                                            "type": "url",
+                                            "url": "http://link.levelup-mail.com/wf/click?upn=0aaGtmeHzhvLBXI-2Fo8oCXCLfvfo-2BgqP7UwjNAJ1YaO8ZuizAZqpo2QQuRxwaqcqHBRAZcDis-2BpdnpiQwyt-2BXTasR-2FMr8i1GWOrHzv21DjVU-3D_AyVvN1Glgc1dcPqUwFmNqpWOOLCwHtOAfrb0u1c4nAv5vysxY2CQIBIHTP-2Fygi7Nv-2FqYkadIgrNXrrUXXHqz-2Fg1VCegM7d-2FkvgKEtwDvY0-2FGYOIfre2bYpQZzkaI6PJuyuxzGWLZ1ymzoPGbA5CMrNouduQNAM4Owey6PD-2Bc-2FlGz9XlYT-2FIrmZDfyasCOs9nrSHveWvhRI4-2FMHHijdi-2FzwHlRYYBLN0AxQts8mRTOLSleKRqhx-2FM8R3LwZlCoe5oBcWwlF2gwXxztWkwUMtmAfuFtj51gBDpgV8JBfWMmZAbTjTI8-2FfOEJ9KmM8g1s9AVHTRROGTmxoacZJxbotOCYV-2Bs3x-2BIDeHENoAOXW3wF8zTbLmcs9eBRQMs2YLWnF-2F-2FGge5sT9v5c85ZfB9Fb9dgT2F-2BbpEYa2e7XgStQWfWH9-2BxPEV5g7S1H3fjmIv78I",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "cmngnd.illinois.mx3a.com",
+                                            "type": "url",
+                                            "url": "http://cmngnd.illinois.mx3a.com",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "www.meitu.com.tw",
+                                            "type": "url",
+                                            "url": "https://www.meitu.com.tw/O2cam_ibon_0814?utm_source=ibon&utm_medium=h5&utm_campaign=O2Cam_freeprint",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "hssszn.com",
+                                            "type": "url",
+                                            "url": "https://hssszn.com/archives/7479",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "yukiblog.tw",
+                                            "type": "url",
+                                            "url": "https://yukiblog.tw/read-15884.html/amp",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "lh3.google.com",
+                                            "type": "url",
+                                            "url": "https://lh3.google.com/8ZeHMWljfGnaJlV_W1jCdDTKh7kIl34ziPG3dtMd8Xk3XcM095oUjnTeL1Li1mOE0bh9iFskURXSdfS1BQhGRgdR67q-",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "e.newyorktimes.com",
+                                            "type": "url",
+                                            "url": "https://e.newyorktimes.com/pub/sf/ResponseForm?tp=sms&_ri_=X0Gzc2X%3DYQpglLjHJlYQGNTIzcU3zfvwCsKG1Pwtfn4hrJqBmUezgAiVXMtX%3DYQpglLjHJlYQGuH2sTzf03bSCTzaPCHNdbpzgpBzgPad8ozbr&_ei_=EqsXyJM9GOGZbtWa81yH-P4",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "meet.google.com",
+                                            "type": "url",
+                                            "url": "https://meet.google.com/?pli=1&authuser=0",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "yehpeng65.pixnet.net",
+                                            "type": "url",
+                                            "url": "https://yehpeng65.pixnet.net/blog/post/176061114-google-voice%E7%94%B3%E8%AB%8B%E5%88%86%E4%BA%AB",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "itunes.apple.com",
+                                            "type": "url",
+                                            "url": "https://itunes.apple.com/app/free-qr-code-reader-barcode-scanner-for-iphone/id903799541?l=en&mt=8",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "apus8.com",
+                                            "type": "url",
+                                            "url": "https://apus8.com/unsubscribe/v2?s=cityinternships2&m=s_92c7cb6c-8f87-4938-8cf5-388867c76e3b",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "dict2.variants.moe.edu.tw",
+                                            "type": "url",
+                                            "url": "http://dict2.variants.moe.edu.tw/yitib/frb/frb06152.htm",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "script.google.com",
+                                            "type": "url",
+                                            "url": "https://script.google.com/a/tradeserv.com/macros/start?mid=ACjPJvGM-IgcJX3YBRFq4A_Oug_vvpkX6_Qsuni1o6SAE2jmwUtYLjnW5ox29lh5vMvSInwiWoDJJfpSHznHTPuynJCRVNCSfdPpnmz5AhMyPz-XKcggvlSaW4t5SM12trDZFclnK-nv2TI&uiv=2",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "today.line.me",
+                                            "type": "url",
+                                            "url": "https://today.line.me/TW/article/kMYQwM?utm_source=copyshare",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "accounts.flipboard.com",
+                                            "type": "url",
+                                            "url": "https://accounts.flipboard.com/?lang=en",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "ezweb.easycard.com.tw",
+                                            "type": "url",
+                                            "url": "https://ezweb.easycard.com.tw/search/CardSearch.php",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "www.tpg.gov.tw",
+                                            "type": "url",
+                                            "url": "https://www.tpg.gov.tw/tpg/",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "www.exit.rocks",
+                                            "type": "url",
+                                            "url": "https://www.exit.rocks/",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "tsline-tsbank.cdn.hinet.net",
+                                            "type": "url",
+                                            "url": "https://tsline-tsbank.cdn.hinet.net/mlbc/bcbinding?luid=cnVbobMGwqSRxgmLRURX7Lplvh8HIC40HA2pQ2XlvADhg2Hlnwjf3XztGJlPq1KU&utm_source=line&utm_medium=menu20181218&utm_campaign=bcfirst&utm_content=menu",
+                                            "visit_count": 0
+                                        }
+                                    ],
+                                    "description": "",
+                                    "expanded": false,
+                                    "expanded_sidebar": false,
+                                    "name": "White List",
+                                    "type": "folder"
+                                },
+                                {
+                                    "description": "",
+                                    "expanded": false,
+                                    "expanded_sidebar": false,
+                                    "name": "Black List",
+                                    "type": "folder"
+                                },
+                                {
+                                    "description": "",
+                                    "expanded": false,
+                                    "expanded_sidebar": false,
+                                    "name": "Just Read Once",
+                                    "type": "folder"
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Clear the K9 cache",
+                                    "type": "url",
+                                    "url": "http://127.0.0.1:2372/k9cc",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "K9 Web Protection Administration: Home",
+                                    "type": "url",
+                                    "url": "http://127.0.0.1:2372/",
+                                    "visit_count": 159
+                                }
+                            ],
                             "description": "",
-                            "keyword": "",
-                            "name": "CHI MOTOR WEB ERP 登入",
-                            "type": "url",
-                            "url": "http://192.168.0.15/MotorWeb/CHIPage/Login.aspx?Page=~/default.aspx",
-                            "visit_count": 3
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "K9",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "CHI MOTOR WEB ERP 登入",
+                                    "type": "url",
+                                    "url": "http://192.168.0.15/MotorWeb/CHIPage/Login.aspx?Page=~/default.aspx",
+                                    "visit_count": 4
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "登錄 :: APOC Git Server",
+                                    "type": "url",
+                                    "url": "http://192.168.0.212:8080/Home/LogOn?ReturnUrl=%2F",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "亞普達公司",
+                            "type": "folder"
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
-                    "name": "亞普達公司內網",
+                    "name": "內網",
                     "type": "folder"
                 },
                 {
@@ -1556,222 +1789,6 @@
                 },
                 {
                     "children": [
-                        {
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "ai4-dev.firebaseapp.com",
-                                            "type": "url",
-                                            "url": "http://ai4-dev.firebaseapp.com",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "sankolan.blogspot.com",
-                                            "type": "url",
-                                            "url": "http://sankolan.blogspot.com",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "http://link.levelup-mail.com/",
-                                            "type": "url",
-                                            "url": "http://link.levelup-mail.com/wf/click?upn=0aaGtmeHzhvLBXI-2Fo8oCXCLfvfo-2BgqP7UwjNAJ1YaO8ZuizAZqpo2QQuRxwaqcqHBRAZcDis-2BpdnpiQwyt-2BXTasR-2FMr8i1GWOrHzv21DjVU-3D_AyVvN1Glgc1dcPqUwFmNqpWOOLCwHtOAfrb0u1c4nAv5vysxY2CQIBIHTP-2Fygi7Nv-2FqYkadIgrNXrrUXXHqz-2Fg1VCegM7d-2FkvgKEtwDvY0-2FGYOIfre2bYpQZzkaI6PJuyuxzGWLZ1ymzoPGbA5CMrNouduQNAM4Owey6PD-2Bc-2FlGz9XlYT-2FIrmZDfyasCOs9nrSHveWvhRI4-2FMHHijdi-2FzwHlRYYBLN0AxQts8mRTOLSleKRqhx-2FM8R3LwZlCoe5oBcWwlF2gwXxztWkwUMtmAfuFtj51gBDpgV8JBfWMmZAbTjTI8-2FfOEJ9KmM8g1s9AVHTRROGTmxoacZJxbotOCYV-2Bs3x-2BIDeHENoAOXW3wF8zTbLmcs9eBRQMs2YLWnF-2F-2FGge5sT9v5c85ZfB9Fb9dgT2F-2BbpEYa2e7XgStQWfWH9-2BxPEV5g7S1H3fjmIv78I",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "cmngnd.illinois.mx3a.com",
-                                            "type": "url",
-                                            "url": "http://cmngnd.illinois.mx3a.com",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "www.meitu.com.tw",
-                                            "type": "url",
-                                            "url": "https://www.meitu.com.tw/O2cam_ibon_0814?utm_source=ibon&utm_medium=h5&utm_campaign=O2Cam_freeprint",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "hssszn.com",
-                                            "type": "url",
-                                            "url": "https://hssszn.com/archives/7479",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "yukiblog.tw",
-                                            "type": "url",
-                                            "url": "https://yukiblog.tw/read-15884.html/amp",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "lh3.google.com",
-                                            "type": "url",
-                                            "url": "https://lh3.google.com/8ZeHMWljfGnaJlV_W1jCdDTKh7kIl34ziPG3dtMd8Xk3XcM095oUjnTeL1Li1mOE0bh9iFskURXSdfS1BQhGRgdR67q-",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "e.newyorktimes.com",
-                                            "type": "url",
-                                            "url": "https://e.newyorktimes.com/pub/sf/ResponseForm?tp=sms&_ri_=X0Gzc2X%3DYQpglLjHJlYQGNTIzcU3zfvwCsKG1Pwtfn4hrJqBmUezgAiVXMtX%3DYQpglLjHJlYQGuH2sTzf03bSCTzaPCHNdbpzgpBzgPad8ozbr&_ei_=EqsXyJM9GOGZbtWa81yH-P4",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "meet.google.com",
-                                            "type": "url",
-                                            "url": "https://meet.google.com/?pli=1&authuser=0",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "yehpeng65.pixnet.net",
-                                            "type": "url",
-                                            "url": "https://yehpeng65.pixnet.net/blog/post/176061114-google-voice%E7%94%B3%E8%AB%8B%E5%88%86%E4%BA%AB",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "itunes.apple.com",
-                                            "type": "url",
-                                            "url": "https://itunes.apple.com/app/free-qr-code-reader-barcode-scanner-for-iphone/id903799541?l=en&mt=8",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "apus8.com",
-                                            "type": "url",
-                                            "url": "https://apus8.com/unsubscribe/v2?s=cityinternships2&m=s_92c7cb6c-8f87-4938-8cf5-388867c76e3b",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "dict2.variants.moe.edu.tw",
-                                            "type": "url",
-                                            "url": "http://dict2.variants.moe.edu.tw/yitib/frb/frb06152.htm",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "script.google.com",
-                                            "type": "url",
-                                            "url": "https://script.google.com/a/tradeserv.com/macros/start?mid=ACjPJvGM-IgcJX3YBRFq4A_Oug_vvpkX6_Qsuni1o6SAE2jmwUtYLjnW5ox29lh5vMvSInwiWoDJJfpSHznHTPuynJCRVNCSfdPpnmz5AhMyPz-XKcggvlSaW4t5SM12trDZFclnK-nv2TI&uiv=2",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "today.line.me",
-                                            "type": "url",
-                                            "url": "https://today.line.me/TW/article/kMYQwM?utm_source=copyshare",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "accounts.flipboard.com",
-                                            "type": "url",
-                                            "url": "https://accounts.flipboard.com/?lang=en",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "ezweb.easycard.com.tw",
-                                            "type": "url",
-                                            "url": "https://ezweb.easycard.com.tw/search/CardSearch.php",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "www.tpg.gov.tw",
-                                            "type": "url",
-                                            "url": "https://www.tpg.gov.tw/tpg/",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "www.exit.rocks",
-                                            "type": "url",
-                                            "url": "https://www.exit.rocks/",
-                                            "visit_count": 0
-                                        },
-                                        {
-                                            "description": "",
-                                            "keyword": "",
-                                            "name": "tsline-tsbank.cdn.hinet.net",
-                                            "type": "url",
-                                            "url": "https://tsline-tsbank.cdn.hinet.net/mlbc/bcbinding?luid=cnVbobMGwqSRxgmLRURX7Lplvh8HIC40HA2pQ2XlvADhg2Hlnwjf3XztGJlPq1KU&utm_source=line&utm_medium=menu20181218&utm_campaign=bcfirst&utm_content=menu",
-                                            "visit_count": 0
-                                        }
-                                    ],
-                                    "description": "",
-                                    "expanded": true,
-                                    "expanded_sidebar": false,
-                                    "name": "White List",
-                                    "type": "folder"
-                                },
-                                {
-                                    "description": "",
-                                    "expanded": false,
-                                    "expanded_sidebar": false,
-                                    "name": "Black List",
-                                    "type": "folder"
-                                },
-                                {
-                                    "description": "",
-                                    "expanded": false,
-                                    "expanded_sidebar": false,
-                                    "name": "Just Read Once",
-                                    "type": "folder"
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Clear the K9 cache",
-                                    "type": "url",
-                                    "url": "http://127.0.0.1:2372/k9cc",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "K9 Web Protection Administration: Home",
-                                    "type": "url",
-                                    "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 159
-                                }
-                            ],
-                            "description": "",
-                            "expanded": true,
-                            "expanded_sidebar": false,
-                            "name": "K9",
-                            "type": "folder"
-                        },
                         {
                             "children": [
                                 {
@@ -8793,7 +8810,7 @@
                                     "name": "Google 日曆 - 2019年9月1日當週",
                                     "type": "url",
                                     "url": "https://calendar.google.com/calendar/r",
-                                    "visit_count": 0
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
