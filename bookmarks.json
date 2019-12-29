@@ -1117,7 +1117,7 @@
                                         }
                                     ],
                                     "description": "",
-                                    "expanded": true,
+                                    "expanded": false,
                                     "expanded_sidebar": false,
                                     "name": "White List",
                                     "type": "folder"
@@ -1150,11 +1150,11 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 159
+                                    "visit_count": 160
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "K9",
                             "type": "folder"
@@ -1186,7 +1186,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "內網",
                     "type": "folder"
@@ -3289,7 +3289,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -7023,7 +7023,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "亞普達",
                             "type": "folder"
@@ -7177,6 +7177,30 @@
                             "expanded_sidebar": false,
                             "name": "Wolfram",
                             "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "捷運悠遊卡購票證明查詢系統",
+                            "type": "url",
+                            "url": "https://queryweb.tscc.com.tw/mrt_web/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "首頁 - iPASS一卡通",
+                            "type": "url",
+                            "url": "https://www.i-pass.com.tw/",
+                            "visit_count": 1
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "EWR - Newark Liberty International Airport",
+                            "type": "url",
+                            "url": "https://www.newarkairport.com/",
+                            "visit_count": 1
                         },
                         {
                             "description": "",
@@ -7449,18 +7473,10 @@
                             "type": "url",
                             "url": "https://www.marshalls.com/",
                             "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "EWR - Newark Liberty International Airport",
-                            "type": "url",
-                            "url": "https://www.newarkairport.com/",
-                            "visit_count": 0
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Business / Economy",
                     "type": "folder"
@@ -7508,7 +7524,7 @@
                                     "name": "臺北大眾捷運股份有限公司-車票種類",
                                     "type": "url",
                                     "url": "https://www.metro.taipei/cp.aspx?n=CEF54168B23F73B4&s=BB3631329CC1A297",
-                                    "visit_count": 0
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
