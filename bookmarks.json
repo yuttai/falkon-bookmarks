@@ -942,6 +942,14 @@
                                         {
                                             "description": "",
                                             "keyword": "",
+                                            "name": "www.soundhound.com",
+                                            "type": "url",
+                                            "url": "http://www.soundhound.com",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
                                             "name": "https://www.1point3acres.com/bbs/thread-35492-1-1.html",
                                             "type": "url",
                                             "url": "https://www.1point3acres.com/bbs/thread-35492-1-1.html",
@@ -1149,7 +1157,7 @@
                                         }
                                     ],
                                     "description": "",
-                                    "expanded": false,
+                                    "expanded": true,
                                     "expanded_sidebar": false,
                                     "name": "White List",
                                     "type": "folder"
@@ -1182,7 +1190,7 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 163
+                                    "visit_count": 165
                                 }
                             ],
                             "description": "",
@@ -2926,6 +2934,14 @@
                             "expanded_sidebar": false,
                             "name": "Lenovo",
                             "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "What Is My IP Address - See Your Public Address - IPv4 & IPv6",
+                            "type": "url",
+                            "url": "https://whatismyipaddress.com/",
+                            "visit_count": 0
                         },
                         {
                             "description": "",
@@ -7609,6 +7625,14 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "World of Hyatt | Loyalty Program",
+                            "type": "url",
+                            "url": "https://world.hyatt.com/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "www.tybus.com.tw",
                             "type": "url",
                             "url": "http://www.tybus.com.tw/",
@@ -9461,7 +9485,7 @@
                                     "name": "Google Hangouts",
                                     "type": "url",
                                     "url": "https://hangouts.google.com/",
-                                    "visit_count": 8
+                                    "visit_count": 9
                                 },
                                 {
                                     "description": "",
