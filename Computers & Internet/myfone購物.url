@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://www.myfone.com.tw/buy/
+[DOC#93]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=https://www.facebook.com/v4.0/plugins/like.php?action=like&app_id=946183295414270&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D45%23cb%3Df9c91924eecef1%26domain%3Dwww.myfone.com.tw%26origin%3Dhttps%253A%252F%252Fwww.myfone.com.tw%252Ff36b2a06e86d84%26relation%3Dparent.parent&container_width=90&href=https%3A%2F%2Fwww.facebook.com%2Fmyfonebuy&layout=button_count&locale=zh_TW&sdk=joey&share=false&show_faces=false&width=90
+[DOC#1699]
+BASEURL=https://www.myfone.com.tw/buy/
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.myfone.com.tw/buy/
+IDList=
+IconFile=https://www.myfone.com.tw/website_twmf/uploads/website_2/zh-tw/favicon_2.ico
+IconIndex=1
