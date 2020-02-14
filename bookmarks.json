@@ -1190,7 +1190,7 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 165
+                                    "visit_count": 166
                                 }
                             ],
                             "description": "",
@@ -3345,7 +3345,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -9017,6 +9017,14 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "微熱山丘 Sunnyhills",
+                            "type": "url",
+                            "url": "https://www.sunnyhills.com.tw/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "Han Dynasty",
                             "type": "url",
                             "url": "http://handynasty.net/",
@@ -9168,7 +9176,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Restaurants / Dining / Food",
                     "type": "folder"
