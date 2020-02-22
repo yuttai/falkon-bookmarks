@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://to-do.microsoft.com/tasks/
+[DOC_shell-cart-count]
+BASEURL=https://www.microsoft.com/store/buy/cartcount
+ORIGURL=//www.microsoft.com/store/buy/cartcount
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://to-do.microsoft.com/tasks/
+IDList=
+IconFile=https://to-do-cdn.microsoft.com/static-assets/434f5b068ef49abc47e1beaf83ec372075eb41dddc170c5e650c220036dfd9ce/icons/favicon.ico
+IconIndex=1
