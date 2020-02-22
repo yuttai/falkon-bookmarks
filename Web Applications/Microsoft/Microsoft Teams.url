@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://teams.microsoft.com/_
+[DOC_adalRenewFramehttps://api.spaces.skype.com]
+BASEURL=https://teams.microsoft.com/
+ORIGURL=https://login.microsoftonline.com/f8cdef31-a31e-4b4a-93e4-5f571e91255a/oauth2/authorize?response_type=token&client_id=5e3ce6c0-2b1f-4285-8d4b-75ee78787346&resource=https%3A%2F%2Fapi.spaces.skype.com&redirect_uri=https%3A%2F%2Fteams.microsoft.com%2Fgo&state=f87a89fe-0554-4e88-b463-1d5601c9ebfd%7Chttps%3A%2F%2Fapi.spaces.skype.com&&client-request-id=8337d18b-2ca7-4fc3-82c2-e82b2ff9515e&x-client-SKU=Js&x-client-Ver=1.0.9&prompt=none&nonce=aebff6c1-74bb-4275-b8a0-6ee1b7a40073
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://teams.microsoft.com/_#
+IDList=
+IconFile=https://statics.teams.cdn.office.net/hashedassets/favicon/prod/favicon-32x32-04b7d908.png
+IconIndex=1
