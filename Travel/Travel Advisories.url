@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/
+[DOC_RHltTddyUr8]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=https://www.youtube.com/embed/RHltTddyUr8?flag=1&enablejsapi=1&html5=1&origin=https://travel.state.gov
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/
+IDList=
