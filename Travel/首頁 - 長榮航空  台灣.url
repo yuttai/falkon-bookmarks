@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://www.evaair.com/zh-tw/index.html
+[DOC#10]
+BASEURL=https://www.evaair.com/zh-tw/index.html
+ORIGURL=javascript:void(0)
+[DOC#2976]
+BASEURL=https://www.evaair.com/zh-tw/index.html
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.evaair.com/zh-tw/index.html#
+IDList=
+IconFile=https://www.evaair.com/favicon.ico
+IconIndex=1
