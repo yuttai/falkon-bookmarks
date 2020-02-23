@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+IDList=
+IconFile=https://www.who.int/favicon.ico
+IconIndex=1
