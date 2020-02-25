@@ -8,3 +8,5 @@ Prop3=19,11
 [InternetShortcut]
 URL=https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/
 IDList=
+IconFile=https://travel.state.gov/apps/tsg-rwd/components/content/resources/favicon.ico
+IconIndex=1
