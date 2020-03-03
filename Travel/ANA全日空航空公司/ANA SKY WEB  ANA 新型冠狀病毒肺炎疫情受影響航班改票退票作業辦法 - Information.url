@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.ana.co.jp/asw/topinfo/info_branch_g.jsp?infoID=tw_z20200228120532&info_tool_flag=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.ana.co.jp/asw/topinfo/info_branch_g.jsp?infoID=tw_z20200228120532&info_tool_flag=1
+IDList=
+IconFile=https://www.ana.co.jp/favicon.ico
+IconIndex=1
