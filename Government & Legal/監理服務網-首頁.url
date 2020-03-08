@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.mvdis.gov.tw/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.mvdis.gov.tw/
+IDList=
+IconFile=https://www.mvdis.gov.tw/stheader2.png
+IconIndex=1
