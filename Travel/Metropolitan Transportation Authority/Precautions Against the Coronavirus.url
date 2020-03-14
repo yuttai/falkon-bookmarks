@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://new.mta.info/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://new.mta.info/precautions-against-coronavirus
+IDList=
+IconFile=https://new.mta.info/themes/custom/bootstrap_mta/favicon.ico
+IconIndex=1
+HotKey=0

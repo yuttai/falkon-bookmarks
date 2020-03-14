@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page
+[DOC#652]
+BASEURL=https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www1.nyc.gov/site/doh/health/health-topics/coronavirus.page
+IDList=
+IconFile=https://www1.nyc.gov/favicon.ico
+IconIndex=1
