@@ -1,0 +1,13 @@
+[DEFAULT]
+BASEURL=https://mail.google.com/mail/u/0/
+[DOC_gtn-roster-iframe-id]
+BASEURL=https://hangouts.google.com/webchat/u/0/load?client=sm&prop=gmail&nav=true&fid=gtn-roster-iframe-id&os=Win32&stime=1584268959149&xpc=%7B%22cn%22%3A%22raheir%22%2C%22tp%22%3A1%2C%22ifrid%22%3A%22gtn-roster-iframe-id%22%2C%22pu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Fwebchat%2Fu%2F0%2F%22%7D&ec=%5B%22ci%3Aec%22%2Ctrue%2Ctrue%2Cfalse%5D&pvt=AMP3uWYUEHnEnn194BqDbnTiDr28Filnk9jR3kw7JztwY5hLSdKxBXTxTEwBjQfKZ9XOMvwGIY2wAlLKcnacrSFSkC2Meo_GpQ%3D%3D&href=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Frel%3D1&pos=l&uiv=2&hl=en&hpc=true&hsm=true&hrc=true&pal=1&uqp=false&gooa=false&gltsi=true&gusm=true&sl=false&hs=%5B%22h_hs%22%2Cnull%2Cnull%2C%5B2%2C0%5D%5D&moleh=380&mmoleh=36&two=https%3A%2F%2Fmail.google.com&host=1&zx=d8ik8ssihyc2
+ORIGURL=https://hangouts.google.com/webchat/u/0/load?client=sm&prop=gmail&nav=true&fid=gtn-roster-iframe-id&os=Win32&stime=1584268959149&xpc=%7B%22cn%22%3A%22raheir%22%2C%22tp%22%3A1%2C%22ifrid%22%3A%22gtn-roster-iframe-id%22%2C%22pu%22%3A%22https%3A%2F%2Fhangouts.google.com%2Fwebchat%2Fu%2F0%2F%22%7D&ec=%5B%22ci%3Aec%22%2Ctrue%2Ctrue%2Cfalse%5D&pvt=AMP3uWYUEHnEnn194BqDbnTiDr28Filnk9jR3kw7JztwY5hLSdKxBXTxTEwBjQfKZ9XOMvwGIY2wAlLKcnacrSFSkC2Meo_GpQ%3D%3D&href=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox%3Frel%3D1&pos=l&uiv=2&hl=en&hpc=true&hsm=true&hrc=true&pal=1&uqp=false&gooa=false&gltsi=true&gusm=true&sl=false&hs=%5B%22h_hs%22%2Cnull%2Cnull%2C%5B2%2C0%5D%5D&moleh=380&mmoleh=36&two=https%3A%2F%2Fmail.google.com&host=1&zx=d8ik8ssihyc2
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://mail.alumni.iu.edu/
+IDList=
+IconFile=https://www.google.com/a/alumni.iu.edu/images/favicon.ico
+IconIndex=1
+HotKey=0
