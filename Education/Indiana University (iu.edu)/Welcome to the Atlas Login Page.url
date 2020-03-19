@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://atlas.iu.edu/istart/controllers/start/StartEngine.cfm
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://atlas.iu.edu/istart/controllers/start/StartEngine.cfm
+IDList=
+IconFile=https://atlas.iu.edu/istart/ui/img/institution_logo.ico
+IconIndex=1
