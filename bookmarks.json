@@ -942,6 +942,14 @@
                                         {
                                             "description": "",
                                             "keyword": "",
+                                            "name": "www.karenteppanyaki.com/edcontent.php?lang=tw&tb=2",
+                                            "type": "url",
+                                            "url": "http://www.karenteppanyaki.com/edcontent.php?lang=tw&tb=2",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
                                             "name": "www.soundhound.com",
                                             "type": "url",
                                             "url": "http://www.soundhound.com",
@@ -1154,6 +1162,30 @@
                                             "type": "url",
                                             "url": "http://aircanadastopover.aircanadavacations.com/",
                                             "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "support.google.com",
+                                            "type": "url",
+                                            "url": "https://support.google.com/drive/answer/6305834?hl=zh-TW",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "dev.gadclubs.com",
+                                            "type": "url",
+                                            "url": "https://dev.gadclubs.com/zh_TW/VerifyStaff/",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "dev.gadclubs.com",
+                                            "type": "url",
+                                            "url": "https://dev.gadclubs.com/zh_TW/VerifyStaff/window/small",
+                                            "visit_count": 0
                                         }
                                     ],
                                     "description": "",
@@ -1194,7 +1226,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "K9",
                             "type": "folder"
@@ -1226,7 +1258,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "內網",
                     "type": "folder"
@@ -9510,7 +9542,7 @@
                                     "name": "Google Hangouts",
                                     "type": "url",
                                     "url": "https://hangouts.google.com/",
-                                    "visit_count": 9
+                                    "visit_count": 10
                                 },
                                 {
                                     "description": "",
@@ -9518,7 +9550,7 @@
                                     "name": "Voice：語音信箱",
                                     "type": "url",
                                     "url": "https://voice.google.com/voicemail",
-                                    "visit_count": 4
+                                    "visit_count": 5
                                 },
                                 {
                                     "description": "",
