@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=4070&pid=692057
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.trade.gov.tw/Pages/Detail.aspx?nodeID=4070&pid=692057
+IDList=
+IconFile=https://www.trade.gov.tw/images/favicon.ico
+IconIndex=1
