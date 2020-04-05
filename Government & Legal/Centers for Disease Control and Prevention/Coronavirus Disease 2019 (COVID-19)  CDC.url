@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.cdc.gov/coronavirus/2019-ncov/index.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.cdc.gov/coronavirus/2019-ncov/index.html
+IDList=
+IconFile=https://www.cdc.gov/TemplatePackage/4.0/assets/imgs/favicon.ico
+IconIndex=1
