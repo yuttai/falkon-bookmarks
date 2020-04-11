@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://alumni.iu.edu/join/recognition-levels/iu-proud.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://alumni.iu.edu/join/recognition-levels/iu-proud.html
+IDList=
+IconFile=https://assets.iu.edu/favicon.ico
+IconIndex=1
