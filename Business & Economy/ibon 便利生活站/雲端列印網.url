@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://print.ibon.com.tw/
+[DOC_frame]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F711.ibon%2F&tabs=timeline&width=340&height=150&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=512805288805365
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://print.ibon.com.tw/
+IDList=
+IconFile=https://print.ibon.com.tw/favicon.ico
+IconIndex=1
