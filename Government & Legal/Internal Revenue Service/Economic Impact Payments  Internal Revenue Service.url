@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.irs.gov/coronavirus/economic-impact-payments
+[DOC#4]
+BASEURL=https://www.irs.gov/coronavirus/economic-impact-payments
+ORIGURL=javascript:void(0)
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.irs.gov/coronavirus/economic-impact-payments
+IconFile=https://www.irs.gov/themes/custom/pup_base/favicon.ico
+IconIndex=1
