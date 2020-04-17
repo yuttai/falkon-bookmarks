@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://first-presence-273501.appspot.com/
+[DOC_ssIFrame_google]
+BASEURL=https://accounts.google.com/o/oauth2/iframe
+ORIGURL=https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Ffirst-presence-273501.appspot.com&rpcToken=652868256.995731
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://first-presence-273501.appspot.com/#
