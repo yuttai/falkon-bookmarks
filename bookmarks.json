@@ -1189,7 +1189,7 @@
                                         }
                                     ],
                                     "description": "",
-                                    "expanded": true,
+                                    "expanded": false,
                                     "expanded_sidebar": false,
                                     "name": "White List",
                                     "type": "folder"
@@ -1226,7 +1226,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "K9",
                             "type": "folder"
@@ -1258,7 +1258,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "內網",
                     "type": "folder"
@@ -8698,6 +8698,129 @@
                                 {
                                     "description": "",
                                     "keyword": "",
+                                    "name": "Google 試算表",
+                                    "type": "url",
+                                    "url": "https://docs.google.com/spreadsheets/u/0/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google 文件",
+                                    "type": "url",
+                                    "url": "https://docs.google.com/document/u/0/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "相片 - Google 相簿",
+                                    "type": "url",
+                                    "url": "https://photos.google.com/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "My Drive - Google Drive",
+                                    "type": "url",
+                                    "url": "https://drive.google.com/drive/my-drive",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google 簡報",
+                                    "type": "url",
+                                    "url": "https://docs.google.com/presentation/u/0/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google 表單",
+                                    "type": "url",
+                                    "url": "https://docs.google.com/forms/u/0/",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "Google",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "All Files | Powered by Box",
+                                    "type": "url",
+                                    "url": "https://iu.app.box.com/folder/0",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Box - Secure Content Management, Workflow, and Collaboration",
+                                    "type": "url",
+                                    "url": "https://www.box.com/home",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "Box",
+                            "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "Adobe Document Cloud",
+                            "type": "url",
+                            "url": "https://documentcloud.adobe.com/link/home/?x-product=CCHome&x-product-location=Apps&guid=c3ab6865-a639-4d66-a16c-d2dc090f3812",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "Home - Dropbox",
+                            "type": "url",
+                            "url": "https://www.dropbox.com/h",
+                            "visit_count": 1
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "Firefox Send",
+                            "type": "url",
+                            "url": "https://send.firefox.com/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "Microsoft OneDrive",
+                            "type": "url",
+                            "url": "https://onedrive.live.com/about/en-us/",
+                            "visit_count": 0
+                        }
+                    ],
+                    "description": "",
+                    "expanded": false,
+                    "expanded_sidebar": false,
+                    "name": "Online Storage",
+                    "type": "folder"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
                                     "name": "Glassdoor Job Search | Find the job that fits your life",
                                     "type": "url",
                                     "url": "https://www.glassdoor.com/index.htm",
@@ -8983,7 +9106,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Google",
                             "type": "folder"
@@ -9366,112 +9489,6 @@
                     "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Financial Services",
-                    "type": "folder"
-                },
-                {
-                    "children": [
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google 試算表",
-                                    "type": "url",
-                                    "url": "https://docs.google.com/spreadsheets/u/0/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google 文件",
-                                    "type": "url",
-                                    "url": "https://docs.google.com/document/u/0/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "相片 - Google 相簿",
-                                    "type": "url",
-                                    "url": "https://photos.google.com/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "My Drive - Google Drive",
-                                    "type": "url",
-                                    "url": "https://drive.google.com/drive/my-drive",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google 簡報",
-                                    "type": "url",
-                                    "url": "https://docs.google.com/presentation/u/0/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google 表單",
-                                    "type": "url",
-                                    "url": "https://docs.google.com/forms/u/0/",
-                                    "visit_count": 0
-                                }
-                            ],
-                            "description": "",
-                            "expanded": true,
-                            "expanded_sidebar": false,
-                            "name": "Google",
-                            "type": "folder"
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "Adobe Document Cloud",
-                            "type": "url",
-                            "url": "https://documentcloud.adobe.com/link/home/?x-product=CCHome&x-product-location=Apps&guid=c3ab6865-a639-4d66-a16c-d2dc090f3812",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "Home - Dropbox",
-                            "type": "url",
-                            "url": "https://www.dropbox.com/h",
-                            "visit_count": 1
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "Firefox Send",
-                            "type": "url",
-                            "url": "https://send.firefox.com/",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "Microsoft OneDrive",
-                            "type": "url",
-                            "url": "https://onedrive.live.com/about/en-us/",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "All Files | Powered by Box",
-                            "type": "url",
-                            "url": "https://iu.app.box.com/folder/0",
-                            "visit_count": 0
-                        }
-                    ],
-                    "description": "",
-                    "expanded": false,
-                    "expanded_sidebar": false,
-                    "name": "Online Storage",
                     "type": "folder"
                 },
                 {
