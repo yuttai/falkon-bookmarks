@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://www.cht.com.tw/home/consumer
+[DOC#1370]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=https://www.facebook.com/v2.10/plugins/share_button.php?app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D46%23cb%3Df2a3338ff887e28%26domain%3Dwww.cht.com.tw%26origin%3Dhttps%253A%252F%252Fwww.cht.com.tw%252Ff15069cca2c7616%26relation%3Dparent.parent&container_width=177&href=https%3A%2F%2Fwww.cht.com.tw%2Fhome%2Fconsumer&layout=button&locale=zh_TW&mobile_iframe=true&sdk=joey&size=small
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.cht.com.tw/home/consumer
+IDList=

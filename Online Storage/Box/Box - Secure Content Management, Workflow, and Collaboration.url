@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.box.com/home
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.box.com/home
+IDList=
+IconFile=https://www.box.com/themes/custom/box/favicons/favicon-32x32.png?q8uu5e
+IconIndex=1

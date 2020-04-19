@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://telecom.taiwanmobile.com/emyfone/action/prepayTopup.do?method=showTopupInput&fromSessionCheck=true
+[DOC#1734]
+BASEURL=https://telecom.taiwanmobile.com/emyfone/action/prepayTopup.do?method=showTopupInput&fromSessionCheck=true
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://telecom.taiwanmobile.com/emyfone/action/prepayTopup.do?method=showTopupInput&fromSessionCheck=true
+IDList=
+IconFile=https://telecom.taiwanmobile.com/content/action/webv3/bp-include/Y19/img/ico/android-icon-192x192.png
+IconIndex=1
