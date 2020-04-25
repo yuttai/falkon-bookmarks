@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.musixmatch.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.musixmatch.com/
+IconFile=https://s.mxmcdn.net/site/images/favicon.png
+IconIndex=1

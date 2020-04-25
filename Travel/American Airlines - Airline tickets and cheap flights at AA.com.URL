@@ -3,3 +3,5 @@ Prop3=19,11
 [InternetShortcut]
 URL=https://www.aa.com/homePage.do?locale=en_US
 IDList=
+IconFile=https://www.aa.com/content/images/chrome/rebrand/favicon.png
+IconIndex=1
