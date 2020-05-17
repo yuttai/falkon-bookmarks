@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://covid19screening.health.ny.gov/covid-19-screening/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://covid19screening.health.ny.gov/covid-19-screening/
+IDList=
+IconFile=https://coronavirus.health.ny.gov//profiles/custom/webny/themes/custom/webny_theme/favicon.ico
+IconIndex=1

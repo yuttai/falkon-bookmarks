@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.einvoice.nat.gov.tw/index
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.einvoice.nat.gov.tw/index
+IDList=
+IconFile=https://www.einvoice.nat.gov.tw/images/favicon.ico
+IconIndex=1
