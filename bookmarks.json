@@ -942,6 +942,14 @@
                                         {
                                             "description": "",
                                             "keyword": "",
+                                            "name": "www.musixmatch.com",
+                                            "type": "url",
+                                            "url": "http://www.musixmatch.com",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
                                             "name": "www.karenteppanyaki.com/edcontent.php?lang=tw&tb=2",
                                             "type": "url",
                                             "url": "http://www.karenteppanyaki.com/edcontent.php?lang=tw&tb=2",
@@ -4211,7 +4219,7 @@
                                             "name": "About IU Alumni Association email accounts (members only)",
                                             "type": "url",
                                             "url": "https://kb.iu.edu/d/ayni",
-                                            "visit_count": 0
+                                            "visit_count": 1
                                         }
                                     ],
                                     "description": "",
@@ -4256,7 +4264,7 @@
                                         }
                                     ],
                                     "description": "",
-                                    "expanded": true,
+                                    "expanded": false,
                                     "expanded_sidebar": false,
                                     "name": "University Information Technology Services",
                                     "type": "folder"
@@ -4315,6 +4323,31 @@
                                         {
                                             "description": "",
                                             "keyword": "",
+                                            "name": "Alumni Association: Indiana University",
+                                            "type": "url",
+                                            "url": "https://alumni.iu.edu/",
+                                            "visit_count": 0
+                                        },
+                                        {
+                                            "description": "",
+                                            "keyword": "",
+                                            "name": "Inbox (4,947) - yuttai@alumni.iu.edu - Indiana University Alumni Association Mail",
+                                            "type": "url",
+                                            "url": "http://mail.alumni.iu.edu",
+                                            "visit_count": 0
+                                        }
+                                    ],
+                                    "description": "",
+                                    "expanded": true,
+                                    "expanded_sidebar": false,
+                                    "name": "Alumni Association  Indiana University",
+                                    "type": "folder"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "description": "",
+                                            "keyword": "",
                                             "name": "Thesis &amp; Dissertation Submission | IUScholarWorks",
                                             "type": "url",
                                             "url": "https://scholarworks.iu.edu/theses",
@@ -4350,14 +4383,6 @@
                                     "type": "url",
                                     "url": "https://imail.iu.edu/",
                                     "visit_count": 18
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Alumni Association: Indiana University",
-                                    "type": "url",
-                                    "url": "https://alumni.iu.edu/",
-                                    "visit_count": 0
                                 },
                                 {
                                     "description": "",
@@ -4521,7 +4546,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Indiana University (iu.edu)",
                             "type": "folder"
@@ -5371,7 +5396,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Education",
                     "type": "folder"
@@ -9559,7 +9584,7 @@
                                     "name": "歡迎使用！ - Chat",
                                     "type": "url",
                                     "url": "https://chat.google.com/welcome",
-                                    "visit_count": 0
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
@@ -9583,6 +9608,22 @@
                                     "name": "Google Voice: Number Porting",
                                     "type": "url",
                                     "url": "https://www.google.com/voice/porting/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google Duo",
+                                    "type": "url",
+                                    "url": "https://duo.google.com/?web&utm_source=marketing_page_button_top",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Messages by Google",
+                                    "type": "url",
+                                    "url": "https://messages.google.com/",
                                     "visit_count": 0
                                 }
                             ],
