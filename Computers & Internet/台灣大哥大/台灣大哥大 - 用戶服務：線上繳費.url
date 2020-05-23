@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.taiwanmobile.com/csonline/ssi/webpay/payIndex.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.taiwanmobile.com/csonline/ssi/webpay/payIndex.html
+IDList=
+IconFile=https://www.taiwanmobile.com/bp-include/Y19/img/ico/android-icon-192x192.png?v=20190613
+IconIndex=1
