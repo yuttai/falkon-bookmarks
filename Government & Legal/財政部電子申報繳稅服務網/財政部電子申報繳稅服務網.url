@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://tax.nat.gov.tw/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://tax.nat.gov.tw/
+IDList=
+IconFile=https://tax.nat.gov.tw/images/favicon/32x32.ico
+IconIndex=1
