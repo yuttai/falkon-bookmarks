@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://192.168.0.15/MotorWeb/CHIPage/Login.aspx?Page=~/default.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://192.168.0.15/MotorWeb/CHIPage/Login.aspx?Page=~/default.aspx
+IDList=
+IconFile=http://192.168.0.15/MotorWeb/image/favicon.ico
+IconIndex=1
