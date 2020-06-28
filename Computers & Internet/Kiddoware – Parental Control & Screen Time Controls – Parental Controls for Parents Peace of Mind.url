@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://kiddoware.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://kiddoware.com/
+IDList=
+IconFile=https://kiddoware.com/wp-content/uploads/2018/12/cropped-WhatsApp-Image-2018-12-14-at-13.20.57-1-32x32.png
+IconIndex=1
