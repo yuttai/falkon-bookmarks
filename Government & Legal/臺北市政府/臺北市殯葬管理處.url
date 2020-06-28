@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://mso.gov.taipei/Default.aspx
+[DOC_YouTube_]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=https://www.youtube.com/embed/XA_Puq_SWVw
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://mso.gov.taipei/Default.aspx
+IDList=
+IconFile=https://www-ws.gov.taipei/001/Upload/416/sites/defaulticon/f143a0a0-00c8-4c8a-85f5-1aef988e153a.png
+IconIndex=1
