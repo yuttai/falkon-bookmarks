@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://3000.gov.tw/Default.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://3000.gov.tw/Default.aspx
+IDList=
+IconFile=https://ws.3000.gov.tw/001/Upload/402/sites/pagebackimage/c8b183f2-47ba-421a-910c-98f5ca05a719.png
+IconIndex=1
