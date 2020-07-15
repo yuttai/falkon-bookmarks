@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://ezweb.easycard.com.tw/eccl2/applyAct!promoQuery.action
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://ezweb.easycard.com.tw/eccl2/applyAct!promoQuery.action
+IDList=
+IconFile=https://ezweb.easycard.com.tw/images2/easycard.ico
+IconIndex=1
