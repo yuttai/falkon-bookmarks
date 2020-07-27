@@ -4338,7 +4338,7 @@
                                         }
                                     ],
                                     "description": "",
-                                    "expanded": true,
+                                    "expanded": false,
                                     "expanded_sidebar": false,
                                     "name": "Alumni Association  Indiana University",
                                     "type": "folder"
@@ -4546,7 +4546,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Indiana University (iu.edu)",
                             "type": "folder"
@@ -5396,7 +5396,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Education",
                     "type": "folder"
@@ -8803,6 +8803,14 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "Trello",
+                            "type": "url",
+                            "url": "https://trello.com/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "Adobe Document Cloud",
                             "type": "url",
                             "url": "https://documentcloud.adobe.com/link/home/?x-product=CCHome&x-product-location=Apps&guid=c3ab6865-a639-4d66-a16c-d2dc090f3812",
@@ -8829,8 +8837,8 @@
                             "keyword": "",
                             "name": "Microsoft OneDrive",
                             "type": "url",
-                            "url": "https://onedrive.live.com/about/en-us/",
-                            "visit_count": 0
+                            "url": "https://onedrive.live.com/",
+                            "visit_count": 1
                         }
                     ],
                     "description": "",
@@ -8996,7 +9004,7 @@
                                     "name": "People - Outlook",
                                     "type": "url",
                                     "url": "https://outlook.live.com/people/",
-                                    "visit_count": 0
+                                    "visit_count": 2
                                 },
                                 {
                                     "description": "",
@@ -9064,7 +9072,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Email",
                     "type": "folder"
@@ -9172,6 +9180,14 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "Trello",
+                            "type": "url",
+                            "url": "https://trello.com",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "Overleaf, Online LaTeX Editor",
                             "type": "url",
                             "url": "https://www.overleaf.com/",
@@ -9187,7 +9203,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Web Applications",
                     "type": "folder"
@@ -9592,7 +9608,7 @@
                                     "name": "Google Hangouts",
                                     "type": "url",
                                     "url": "https://hangouts.google.com/",
-                                    "visit_count": 10
+                                    "visit_count": 11
                                 },
                                 {
                                     "description": "",
