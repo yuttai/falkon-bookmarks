@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.easycard.com.tw/use-map
+[DOC#968]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=https://www.facebook.com/v2.10/plugins/page.php?adapt_container_width=true&app_id=1952782831653448&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df330529913d451c%26domain%3Dwww.easycard.com.tw%26origin%3Dhttps%253A%252F%252Fwww.easycard.com.tw%252Ff15a7cd86e9bc07%26relation%3Dparent.parent&container_width=0&height=460&hide_cover=true&href=https%3A%2F%2Fwww.facebook.com%2Feasycard.tw%2F&locale=zh_TW&sdk=joey&show_facepile=false&small_header=true&tabs=timeline&width=320
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.easycard.com.tw/use-map
+IDList=
+IconFile=https://www.easycard.com.tw/styles/images/common/favicon.ico
+IconIndex=1
