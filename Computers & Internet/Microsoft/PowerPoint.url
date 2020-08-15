@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.office.com/launch/powerpoint?auth=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.office.com/launch/powerpoint?auth=1
+IDList=
+IconFile=https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico
+IconIndex=1
