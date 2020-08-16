@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://portal.azure.com/
+[DOC_consoleFrameId]
+BASEURL=https://ux.console.azure.com/?region=eastasia&trustedAuthority=https%3A%2F%2Fportal.azure.com&l=zh-hant.zh-hk&feature.azureconsole=true
+ORIGURL=https://ux.console.azure.com?region=eastasia&trustedAuthority=https%3A%2F%2Fportal.azure.com&l=zh-hant.zh-hk&feature.azureconsole=true
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://portal.azure.com/#home
+IDList=
+IconFile=https://portal.azure.com/favicon.ico
+IconIndex=1
