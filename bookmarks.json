@@ -9072,7 +9072,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Email",
                     "type": "folder"
@@ -9203,9 +9203,116 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Web Applications",
+                    "type": "folder"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "歡迎使用！ - Chat",
+                                    "type": "url",
+                                    "url": "https://chat.google.com/welcome",
+                                    "visit_count": 1
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google Hangouts",
+                                    "type": "url",
+                                    "url": "https://hangouts.google.com/",
+                                    "visit_count": 12
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Voice：語音信箱",
+                                    "type": "url",
+                                    "url": "https://voice.google.com/voicemail",
+                                    "visit_count": 5
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google Voice: Number Porting",
+                                    "type": "url",
+                                    "url": "https://www.google.com/voice/porting/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Google Duo",
+                                    "type": "url",
+                                    "url": "https://duo.google.com/?web&utm_source=marketing_page_button_top",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Messages by Google",
+                                    "type": "url",
+                                    "url": "https://messages.google.com/",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "Google",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Skype | Communication tool for free calls and chat",
+                                    "type": "url",
+                                    "url": "https://www.skype.com/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Skype",
+                                    "type": "url",
+                                    "url": "https://web.skype.com/",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "Skype",
+                            "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "AT&amp;T Messages",
+                            "type": "url",
+                            "url": "http://messages.att.net/",
+                            "visit_count": 2
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "LINE : Free Calls & Messages",
+                            "type": "url",
+                            "url": "https://line.me/en/",
+                            "visit_count": 0
+                        }
+                    ],
+                    "description": "",
+                    "expanded": false,
+                    "expanded_sidebar": false,
+                    "name": "Chat / Instant Messaging",
                     "type": "folder"
                 },
                 {
@@ -9588,96 +9695,6 @@
                     "expanded": false,
                     "expanded_sidebar": false,
                     "name": "News / Media",
-                    "type": "folder"
-                },
-                {
-                    "children": [
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "歡迎使用！ - Chat",
-                                    "type": "url",
-                                    "url": "https://chat.google.com/welcome",
-                                    "visit_count": 1
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google Hangouts",
-                                    "type": "url",
-                                    "url": "https://hangouts.google.com/",
-                                    "visit_count": 11
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Voice：語音信箱",
-                                    "type": "url",
-                                    "url": "https://voice.google.com/voicemail",
-                                    "visit_count": 5
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google Voice: Number Porting",
-                                    "type": "url",
-                                    "url": "https://www.google.com/voice/porting/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Google Duo",
-                                    "type": "url",
-                                    "url": "https://duo.google.com/?web&utm_source=marketing_page_button_top",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Messages by Google",
-                                    "type": "url",
-                                    "url": "https://messages.google.com/",
-                                    "visit_count": 0
-                                }
-                            ],
-                            "description": "",
-                            "expanded": false,
-                            "expanded_sidebar": false,
-                            "name": "Google",
-                            "type": "folder"
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "AT&amp;T Messages",
-                            "type": "url",
-                            "url": "http://messages.att.net/",
-                            "visit_count": 2
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "LINE : Free Calls & Messages",
-                            "type": "url",
-                            "url": "https://line.me/en/",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "Skype | Communication tool for free calls and chat",
-                            "type": "url",
-                            "url": "https://www.skype.com/en/",
-                            "visit_count": 0
-                        }
-                    ],
-                    "description": "",
-                    "expanded": false,
-                    "expanded_sidebar": false,
-                    "name": "Chat / Instant Messaging",
                     "type": "folder"
                 },
                 {
