@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=https://ebus.gov.taipei/Stop/RoutesOfStop?Stopid=1128700040
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://ebus.gov.taipei/Stop/RoutesOfStop?Stopid=1128700040
+IDList=
