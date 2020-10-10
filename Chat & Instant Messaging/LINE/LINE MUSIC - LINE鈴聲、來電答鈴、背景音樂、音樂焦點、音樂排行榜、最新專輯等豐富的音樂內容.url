@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://music-tw.line.me/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://music-tw.line.me/
+IDList=
+IconFile=https://vos.line-scdn.net/music-img/favicon.png
+IconIndex=1
