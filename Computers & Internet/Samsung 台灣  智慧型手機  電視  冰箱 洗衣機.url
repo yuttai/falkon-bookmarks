@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.samsung.com/tw/
+[DOC#59]
+BASEURL=https://www.samsung.com/tw/
+ORIGURL=javascript:void(0)
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.samsung.com/tw/
+IDList=
+IconFile=https://www.samsung.com/etc.clientlibs/samsung/clientlibs/consumer/global/clientlib-common/resources/images/favicon.ico
+IconIndex=1
