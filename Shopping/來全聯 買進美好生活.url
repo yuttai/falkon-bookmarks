@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.pxmart.com.tw/px/index.px
+[DOC#642]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=//www.facebook.com/plugins/like.php?locale=zh_TW&href=https%3A%2F%2Fwww.facebook.com%2Fpxmartchannel&width=80px&layout=button_count&action=like&show_faces=true&share=false&height=80
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.pxmart.com.tw/px/index.px
+IDList=
+IconFile=http://www.pxmart.com.tw/images/paxmart.png
+IconIndex=1
