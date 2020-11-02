@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://shopping.pchome.com.tw/
+[DOC_venraasfr]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=https://apid.pcloud.tw/venapis/vengu
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://shopping.pchome.com.tw/
+IDList=
+IconFile=https://e.ecimg.tw/img/icon/24-64x64.ico
+IconIndex=1
