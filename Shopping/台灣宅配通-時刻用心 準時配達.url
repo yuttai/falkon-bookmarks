@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.e-can.com.tw/index.aspx
+[DOC#327]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Ftaiwanpelican&width=250&height=418&colorscheme=light&show_faces=false&border_color=%23cccccc&stream=true&header=false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.e-can.com.tw/index.aspx
+IDList=
+IconFile=https://www.e-can.com.tw/images/favicon.ico
+IconIndex=1
