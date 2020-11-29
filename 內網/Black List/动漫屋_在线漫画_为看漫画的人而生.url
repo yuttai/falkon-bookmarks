@@ -1,9 +1,0 @@
-[DEFAULT]
-BASEURL=http://www.dm5.com/
-[{000214A0-0000-0000-C000-000000000046}]
-Prop3=19,2
-[InternetShortcut]
-IDList=
-URL=http://www.dm5.com/
-IconFile=http://css122us.cdnmanhua.net/v202004101040/dm5/images/dm5.ico
-IconIndex=1
