@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.google.com/webmasters/tools/safesearch
+[DOC_com.google.crawl.wmconsole.fe.feature.gwt.wmxclient]
+BASEURL=https://www.google.com/webmasters/tools/safesearch
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.google.com/webmasters/tools/safesearch
+IDList=
+IconFile=https://www.google.com/webmasters/tools/images/webmaster_tools-16.ico
+IconIndex=1
