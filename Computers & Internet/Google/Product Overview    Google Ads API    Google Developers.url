@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://developers.google.com/google-ads/api/docs/start
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://developers.google.com/google-ads/api/docs/start
+IDList=
+IconFile=https://www.gstatic.com/devrel-devsite/prod/v45f61267e22826169cf5d5f452882f7812c8cfb5f8b103a48c0d88727908b295/developers/images/favicon.png
+IconIndex=1
