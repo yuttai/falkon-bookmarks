@@ -2212,18 +2212,18 @@
                                 {
                                     "description": "",
                                     "keyword": "",
-                                    "name": "Get Started  |  AdWords API  |  Google Developers",
+                                    "name": "Product Overview  |  Google Ads API Beta  |  Google Developers",
                                     "type": "url",
-                                    "url": "https://developers.google.com/adwords/api/docs/guides/start",
+                                    "url": "https://developers.google.com/google-ads/api/docs/start",
                                     "visit_count": 1
                                 },
                                 {
                                     "description": "",
                                     "keyword": "",
-                                    "name": "Product Overview  |  Google Ads API Beta  |  Google Developers",
+                                    "name": "Get Started  |  AdWords API  |  Google Developers",
                                     "type": "url",
-                                    "url": "https://developers.google.com/google-ads/api/docs/start",
-                                    "visit_count": 0
+                                    "url": "https://developers.google.com/adwords/api/docs/guides/start",
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
@@ -2291,7 +2291,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Google",
                             "type": "folder"
@@ -3385,7 +3385,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -7994,7 +7994,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Travel",
                     "type": "folder"
@@ -8114,7 +8114,7 @@
                             "name": "Messenger",
                             "type": "url",
                             "url": "https://www.messenger.com/",
-                            "visit_count": 1
+                            "visit_count": 2
                         },
                         {
                             "description": "",
@@ -8768,7 +8768,7 @@
                                     "name": "Google",
                                     "type": "url",
                                     "url": "https://www.google.com/",
-                                    "visit_count": 0
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
@@ -8785,6 +8785,14 @@
                                     "type": "url",
                                     "url": "https://www.google.com.tw/",
                                     "visit_count": 2
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "家庭",
+                                    "type": "url",
+                                    "url": "https://families.google.com/families",
+                                    "visit_count": 0
                                 }
                             ],
                             "description": "",
@@ -9607,7 +9615,7 @@
                             "name": "CHASE Home",
                             "type": "url",
                             "url": "https://www.chase.com/",
-                            "visit_count": 8
+                            "visit_count": 9
                         },
                         {
                             "description": "",
