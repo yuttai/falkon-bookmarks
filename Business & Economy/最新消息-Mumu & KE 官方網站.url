@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://www.mumuandke.com.tw/
+[DOC_ushop_content_iframe]
+BASEURL=https://www.mumuandke.com.tw/
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.mumuandke.com.tw/
+IDList=
