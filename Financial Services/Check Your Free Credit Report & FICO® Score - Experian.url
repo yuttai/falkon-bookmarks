@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.experian.com/
+[DOC#602]
+BASEURL=https://www.experian.com/
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.experian.com/
+IDList=
+IconFile=https://www.experian.com/favicon-48x48.png
+IconIndex=1
