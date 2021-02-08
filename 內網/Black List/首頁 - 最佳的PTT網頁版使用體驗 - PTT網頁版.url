@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.pttweb.cc/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.pttweb.cc/
+IconFile=https://www.pttweb.cc/favicon_P.ico
+IconIndex=1

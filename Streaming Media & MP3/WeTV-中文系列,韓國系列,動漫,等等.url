@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://wetv.vip/zh-tw
+[DOC_oneadTag]
+BASEURL=https://wetv.vip/zh-tw
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://wetv.vip/zh-tw
+IconFile=https://vfiles.gtimg.cn/vupload/20200713/favicon.ico
+IconIndex=1
