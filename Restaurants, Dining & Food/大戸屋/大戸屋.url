@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.ootoya.com/
+[DOC#490]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=https://www.facebook.com/v2.6/plugins/like.php?action=like&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfeaf1417ad645%26domain%3Dwww.ootoya.com%26origin%3Dhttps%253A%252F%252Fwww.ootoya.com%252Ff21a34ecde06ff8%26relation%3Dparent.parent&container_width=176&href=http%3A%2F%2Fwww.ootoya.com%2F&layout=button&locale=ja_JP&sdk=joey&share=true&show_faces=false
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.ootoya.com/
+IDList=
+IconFile=https://www.ootoya.com/favicon.ico
+IconIndex=1

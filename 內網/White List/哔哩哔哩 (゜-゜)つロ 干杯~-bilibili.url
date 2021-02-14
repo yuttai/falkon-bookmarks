@@ -1,9 +1,0 @@
-[DEFAULT]
-BASEURL=https://www.bilibili.com/
-[{000214A0-0000-0000-C000-000000000046}]
-Prop3=19,11
-[InternetShortcut]
-IDList=
-URL=https://www.bilibili.com/
-IconFile=https://www.bilibili.com/favicon.ico?v=1
-IconIndex=1
