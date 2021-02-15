@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.bonuswinner.com.tw/
+[DOC_ssIFrame_google]
+BASEURL=https://accounts.google.com/o/oauth2/iframe
+ORIGURL=https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fwww.bonuswinner.com.tw&rpcToken=2083074572.0518927
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.bonuswinner.com.tw/
+IconFile=https://www.bonuswinner.com.tw/favicon.ico
+IconIndex=1
