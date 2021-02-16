@@ -2291,7 +2291,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": true,
+                            "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Google",
                             "type": "folder"
@@ -3381,6 +3381,14 @@
                             "name": "Sony USA - Electronics, PlayStation, Movies, Music, Product Support",
                             "type": "url",
                             "url": "https://www.sony.com/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "WinSCP :: Official Site :: Free SFTP and FTP client for Windows",
+                            "type": "url",
+                            "url": "https://winscp.net/eng/index.php",
                             "visit_count": 0
                         }
                     ],
@@ -7150,6 +7158,38 @@
                                     "type": "url",
                                     "url": "https://home.allproducts.com/",
                                     "visit_count": 1
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "IntegrateDataSystem",
+                                    "type": "url",
+                                    "url": "http://ai-ext.allproducts.com:8080/Allie/integrateData/report/index",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Sophos",
+                                    "type": "url",
+                                    "url": "https://vpn.allproducts.com/userportal/webpages/myaccount/login.jsp",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Allie Frontend",
+                                    "type": "url",
+                                    "url": "http://ai-ext.allproducts.com:8080/Allie/optimizationForm/index",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Allie Backend",
+                                    "type": "url",
+                                    "url": "http://ai-ext.allproducts.com:8080/Allie/optimizationFormBackend/index#",
+                                    "visit_count": 0
                                 }
                             ],
                             "description": "",
@@ -8017,7 +8057,7 @@
                                     "name": "Google Hangouts",
                                     "type": "url",
                                     "url": "https://hangouts.google.com/",
-                                    "visit_count": 13
+                                    "visit_count": 15
                                 },
                                 {
                                     "description": "",
@@ -8907,6 +8947,14 @@
                                     "type": "url",
                                     "url": "https://docs.google.com/forms/u/0/",
                                     "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "[AI-Center] 需求處理申請單",
+                                    "type": "url",
+                                    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdq5LFwfRc3I9U4MNseC99LRTegKPV4DdRPhOIKtInfjhmO7A/viewform",
+                                    "visit_count": 0
                                 }
                             ],
                             "description": "",
@@ -9275,6 +9323,14 @@
                                     "name": "Google 表單",
                                     "type": "url",
                                     "url": "https://docs.google.com/forms/u/0/",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "[AI-Center] 需求處理申請單",
+                                    "type": "url",
+                                    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdq5LFwfRc3I9U4MNseC99LRTegKPV4DdRPhOIKtInfjhmO7A/viewform",
                                     "visit_count": 0
                                 }
                             ],
