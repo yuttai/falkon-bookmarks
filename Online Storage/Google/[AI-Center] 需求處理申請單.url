@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://docs.google.com/forms/d/e/1FAIpQLSdq5LFwfRc3I9U4MNseC99LRTegKPV4DdRPhOIKtInfjhmO7A/viewform
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://docs.google.com/forms/d/e/1FAIpQLSdq5LFwfRc3I9U4MNseC99LRTegKPV4DdRPhOIKtInfjhmO7A/viewform
+IconFile=https://ssl.gstatic.com/docs/forms/device_home/android_192.png
+IconIndex=1
