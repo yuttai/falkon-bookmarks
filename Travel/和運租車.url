@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.easyrent.com.tw/
+[DOC_doAjaxCallwwweasyrentcomtwEasyrentService2019]
+BASEURL=https://www.easyrent.com.tw/EasyrentService2019/proxyPage/proxyPage.html
+ORIGURL=https://www.easyrent.com.tw/EasyrentService2019/proxyPage/proxyPage.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://www.easyrent.com.tw/
+IconFile=https://www.easyrent.com.tw/styles/images/web-icon.ico
+IconIndex=1
