@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://www.jal.co.jp/tw/zhtw/
+[DOC#87]
+BASEURL=https://www.jal.co.jp/tw/zhtw/
+ORIGURL=javascript:void(0)
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.jal.co.jp/tw/zhtw/
+IDList=
+IconFile=https://www.jal.co.jp/etc.clientlibs/jal/clientlibs/clientlib-site-base/resources/images/favicon.ico
+IconIndex=1
