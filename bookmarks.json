@@ -1230,7 +1230,7 @@
                                     "name": "K9 Web Protection Administration: Home",
                                     "type": "url",
                                     "url": "http://127.0.0.1:2372/",
-                                    "visit_count": 166
+                                    "visit_count": 167
                                 }
                             ],
                             "description": "",
@@ -3393,7 +3393,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -8027,14 +8027,30 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "Low Fares Done Right | Frontier Airlines",
+                            "type": "url",
+                            "url": "https://www.flyfrontier.com/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "日本航空（JAL/日航）- 日本機票預訂 - 計劃您的飛行旅程",
+                            "type": "url",
+                            "url": "https://www.jal.co.jp/tw/zhtw/",
+                            "visit_count": 0
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "Agoda: Cheap Hotel Booking - Discount Accommodations",
                             "type": "url",
                             "url": "https://www.agoda.com/",
-                            "visit_count": 0
+                            "visit_count": 1
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Travel",
                     "type": "folder"
@@ -8154,7 +8170,7 @@
                             "name": "Messenger",
                             "type": "url",
                             "url": "https://www.messenger.com/",
-                            "visit_count": 2
+                            "visit_count": 3
                         },
                         {
                             "description": "",
