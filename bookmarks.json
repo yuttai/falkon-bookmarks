@@ -8050,7 +8050,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": true,
+                    "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Travel",
                     "type": "folder"
@@ -8170,7 +8170,7 @@
                             "name": "Messenger",
                             "type": "url",
                             "url": "https://www.messenger.com/",
-                            "visit_count": 3
+                            "visit_count": 4
                         },
                         {
                             "description": "",
@@ -9058,6 +9058,130 @@
                                 {
                                     "description": "",
                                     "keyword": "",
+                                    "name": "Outlook – free personal email and calendar from Microsoft",
+                                    "type": "url",
+                                    "url": "https://outlook.live.com/owa/",
+                                    "visit_count": 4
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Mail - Outlook",
+                                    "type": "url",
+                                    "url": "https://outlook.live.com/mail/",
+                                    "visit_count": 2
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Calendar - Outlook",
+                                    "type": "url",
+                                    "url": "https://outlook.live.com/calendar/",
+                                    "visit_count": 3
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "People - Outlook",
+                                    "type": "url",
+                                    "url": "https://outlook.live.com/people/",
+                                    "visit_count": 2
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Files - Outlook",
+                                    "type": "url",
+                                    "url": "https://outlook.live.com/files/",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "Outlook – free personal email and calendar from Microsoft",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Tai, Yu-Tsung - Outlook Web App",
+                                    "type": "url",
+                                    "url": "https://www.exchange.iu.edu/owa/?bO=1#path=/mail",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Imail | Indiana University",
+                                    "type": "url",
+                                    "url": "https://imail.iu.edu/",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "Indiana University",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "郵件  歡迎到 NTU WebMail",
+                                    "type": "url",
+                                    "url": "http://webmail.ntu.edu.tw/",
+                                    "visit_count": 1
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "NTU Webmail for Students [2020/05以後入學][學號帳號校友] :: Welcome to NTU Webmail for Students [2020/05以後入學][學號帳號校友]",
+                                    "type": "url",
+                                    "url": "https://wmail1.cc.ntu.edu.tw/rc/index.php",
+                                    "visit_count": 0
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "國立臺灣大學",
+                            "type": "folder"
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "收件匣 - yuttai@tradeserv.com - 亞普達企業電子郵件信箱 郵件",
+                            "type": "url",
+                            "url": "https://mail.google.com/",
+                            "visit_count": 8
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "Yahoo! 奇摩電子信箱",
+                            "type": "url",
+                            "url": "http://tw.mail.yahoo.com/",
+                            "visit_count": 0
+                        }
+                    ],
+                    "description": "",
+                    "expanded": false,
+                    "expanded_sidebar": false,
+                    "name": "Email",
+                    "type": "folder"
+                },
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
                                     "name": "Glassdoor Job Search | Find the job that fits your life",
                                     "type": "url",
                                     "url": "https://www.glassdoor.com/index.htm",
@@ -9172,113 +9296,6 @@
                     "expanded": false,
                     "expanded_sidebar": false,
                     "name": "Job Search / Careers",
-                    "type": "folder"
-                },
-                {
-                    "children": [
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Outlook – free personal email and calendar from Microsoft",
-                                    "type": "url",
-                                    "url": "https://outlook.live.com/owa/",
-                                    "visit_count": 4
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Mail - Outlook",
-                                    "type": "url",
-                                    "url": "https://outlook.live.com/mail/",
-                                    "visit_count": 2
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Calendar - Outlook",
-                                    "type": "url",
-                                    "url": "https://outlook.live.com/calendar/",
-                                    "visit_count": 3
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "People - Outlook",
-                                    "type": "url",
-                                    "url": "https://outlook.live.com/people/",
-                                    "visit_count": 2
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Files - Outlook",
-                                    "type": "url",
-                                    "url": "https://outlook.live.com/files/",
-                                    "visit_count": 0
-                                }
-                            ],
-                            "description": "",
-                            "expanded": false,
-                            "expanded_sidebar": false,
-                            "name": "Outlook – free personal email and calendar from Microsoft",
-                            "type": "folder"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Tai, Yu-Tsung - Outlook Web App",
-                                    "type": "url",
-                                    "url": "https://www.exchange.iu.edu/owa/?bO=1#path=/mail",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Imail | Indiana University",
-                                    "type": "url",
-                                    "url": "https://imail.iu.edu/",
-                                    "visit_count": 0
-                                }
-                            ],
-                            "description": "",
-                            "expanded": false,
-                            "expanded_sidebar": false,
-                            "name": "Indiana University",
-                            "type": "folder"
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "收件匣 - yuttai@tradeserv.com - 亞普達企業電子郵件信箱 郵件",
-                            "type": "url",
-                            "url": "https://mail.google.com/",
-                            "visit_count": 8
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "Yahoo! 奇摩電子信箱",
-                            "type": "url",
-                            "url": "http://tw.mail.yahoo.com/",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "郵件  歡迎到 NTU WebMail",
-                            "type": "url",
-                            "url": "http://webmail.ntu.edu.tw/",
-                            "visit_count": 0
-                        }
-                    ],
-                    "description": "",
-                    "expanded": false,
-                    "expanded_sidebar": false,
-                    "name": "Email",
                     "type": "folder"
                 },
                 {
