@@ -2707,6 +2707,55 @@
                                 {
                                     "description": "",
                                     "keyword": "",
+                                    "name": "PyCharm: the Python IDE for Professional Developers by JetBrains",
+                                    "type": "url",
+                                    "url": "https://www.jetbrains.com/pycharm/",
+                                    "visit_count": 1
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "PyCharm (PY) - Bug and Issue Tracker",
+                                    "type": "url",
+                                    "url": "https://youtrack.jetbrains.com/issues/PY",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Type hinting in PyCharm | PyCharm",
+                                    "type": "url",
+                                    "url": "https://www.jetbrains.com/help/pycharm/type-hinting-in-product.html",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Python | PyCharm",
+                                    "type": "url",
+                                    "url": "https://www.jetbrains.com/help/pycharm/python.html",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "Merging Files from Command Line - Help | PyCharm",
+                                    "type": "url",
+                                    "url": "https://www.jetbrains.com/help/pycharm/2019.2/command-line-merge-tool.html",
+                                    "visit_count": 1
+                                }
+                            ],
+                            "description": "",
+                            "expanded": false,
+                            "expanded_sidebar": false,
+                            "name": "JetBrains",
+                            "type": "folder"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "description": "",
+                                    "keyword": "",
                                     "name": "Red Hat",
                                     "type": "url",
                                     "url": "http://www.redhat.com/",
@@ -2741,39 +2790,6 @@
                             "expanded": false,
                             "expanded_sidebar": false,
                             "name": "Red Hat",
-                            "type": "folder"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "PyCharm: the Python IDE for Professional Developers by JetBrains",
-                                    "type": "url",
-                                    "url": "https://www.jetbrains.com/pycharm/",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "PyCharm (PY) - Bug and Issue Tracker",
-                                    "type": "url",
-                                    "url": "https://youtrack.jetbrains.com/issues/PY",
-                                    "visit_count": 0
-                                },
-                                {
-                                    "description": "",
-                                    "keyword": "",
-                                    "name": "Merging Files from Command Line - Help | PyCharm",
-                                    "type": "url",
-                                    "url": "https://www.jetbrains.com/help/pycharm/2019.2/command-line-merge-tool.html",
-                                    "visit_count": 1
-                                }
-                            ],
-                            "description": "",
-                            "expanded": false,
-                            "expanded_sidebar": false,
-                            "name": "JetBrains",
                             "type": "folder"
                         },
                         {
@@ -5512,6 +5528,14 @@
                                 {
                                     "description": "",
                                     "keyword": "",
+                                    "name": "大臺北公車 - 明德國中[向南]",
+                                    "type": "url",
+                                    "url": "https://ebus.gov.taipei/Stop/RoutesOfStop?Stopid=1128000140",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
                                     "name": "wsearch.gov.taipei",
                                     "type": "url",
                                     "url": "https://wsearch.gov.taipei/wise/s.jsp?q=App&d=306",
@@ -7375,26 +7399,26 @@
                         {
                             "description": "",
                             "keyword": "",
-                            "name": "台北數位集團 - Google Ads 關鍵字廣告",
-                            "type": "url",
-                            "url": "https://www.taipeiads.com/gad.php",
-                            "visit_count": 4
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
                             "name": "Con Edison - Powering New York City and Westchester",
                             "type": "url",
                             "url": "https://www.coned.com/en/",
-                            "visit_count": 8
+                            "visit_count": 9
                         },
                         {
                             "description": "",
                             "keyword": "",
                             "name": "總覽 - 亞普達國際 - Google Ads",
                             "type": "url",
-                            "url": "https://ads.google.com/aw/overview?ocid=12525108&euid=362017658&__u=2534681642&uscid=12525108&__c=4487756692&authuser=0",
-                            "visit_count": 3
+                            "url": "https://ads.google.com/",
+                            "visit_count": 4
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "台北數位集團 - Google Ads 關鍵字廣告",
+                            "type": "url",
+                            "url": "https://www.taipeiads.com/gad.php",
+                            "visit_count": 4
                         },
                         {
                             "description": "",
@@ -8062,18 +8086,18 @@
                                 {
                                     "description": "",
                                     "keyword": "",
-                                    "name": "歡迎使用！ - Chat",
+                                    "name": "Google Hangouts",
                                     "type": "url",
-                                    "url": "https://chat.google.com/welcome",
-                                    "visit_count": 1
+                                    "url": "https://hangouts.google.com/",
+                                    "visit_count": 16
                                 },
                                 {
                                     "description": "",
                                     "keyword": "",
-                                    "name": "Google Hangouts",
+                                    "name": "歡迎使用！ - Chat",
                                     "type": "url",
-                                    "url": "https://hangouts.google.com/",
-                                    "visit_count": 15
+                                    "url": "https://chat.google.com/welcome",
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
@@ -8109,7 +8133,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Google",
                             "type": "folder"
@@ -8170,7 +8194,7 @@
                             "name": "Messenger",
                             "type": "url",
                             "url": "https://www.messenger.com/",
-                            "visit_count": 4
+                            "visit_count": 7
                         },
                         {
                             "description": "",
@@ -9693,18 +9717,18 @@
                         {
                             "description": "",
                             "keyword": "",
-                            "name": "智慧好夥伴—台新銀行!",
-                            "type": "url",
-                            "url": "https://www.taishinbank.com.tw/TS/TS02/TS0298/TS0298-SEC",
-                            "visit_count": 1
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
                             "name": "CHASE Home",
                             "type": "url",
                             "url": "https://www.chase.com/",
                             "visit_count": 9
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
+                            "name": "智慧好夥伴—台新銀行!",
+                            "type": "url",
+                            "url": "https://www.taishinbank.com.tw/TS/TS02/TS0298/TS0298-SEC",
+                            "visit_count": 1
                         },
                         {
                             "description": "",
