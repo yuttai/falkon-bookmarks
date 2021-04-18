@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.anaconda.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.anaconda.com/
+IDList=
+IconFile=https://www.anaconda.com/assets/build/favicons/favicon-32x32-20c6665c85.png
+IconIndex=1

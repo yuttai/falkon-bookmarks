@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://www.bthc.gov.taipei/News.aspx?n=FD0450BB5831913E
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://www.bthc.gov.taipei/News.aspx?n=FD0450BB5831913E
+IDList=
+IconFile=https://www.bthc.gov.taipei/images/favicon.ico
+IconIndex=1
