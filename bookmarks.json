@@ -3162,6 +3162,14 @@
                         {
                             "description": "",
                             "keyword": "",
+                            "name": "Home - Anaconda",
+                            "type": "url",
+                            "url": "https://www.anaconda.com/",
+                            "visit_count": 1
+                        },
+                        {
+                            "description": "",
+                            "keyword": "",
                             "name": "The Comprehensive R Archive Network",
                             "type": "url",
                             "url": "https://cran.r-project.org/",
@@ -3170,10 +3178,10 @@
                         {
                             "description": "",
                             "keyword": "",
-                            "name": "Home - Anaconda",
+                            "name": "All Files | Powered by Box",
                             "type": "url",
-                            "url": "https://www.anaconda.com/",
-                            "visit_count": 0
+                            "url": "https://iu.app.box.com/folder/0",
+                            "visit_count": 1
                         },
                         {
                             "description": "",
@@ -3181,14 +3189,6 @@
                             "name": "JSON",
                             "type": "url",
                             "url": "http://json.org/",
-                            "visit_count": 0
-                        },
-                        {
-                            "description": "",
-                            "keyword": "",
-                            "name": "All Files | Powered by Box",
-                            "type": "url",
-                            "url": "https://iu.app.box.com/folder/0",
                             "visit_count": 0
                         },
                         {
@@ -3409,7 +3409,7 @@
                         }
                     ],
                     "description": "",
-                    "expanded": false,
+                    "expanded": true,
                     "expanded_sidebar": false,
                     "name": "Computers / Internet",
                     "type": "folder"
@@ -4427,18 +4427,18 @@
                                 {
                                     "description": "",
                                     "keyword": "",
-                                    "name": "One.IU | IU Bloomington",
+                                    "name": "Canvas",
                                     "type": "url",
-                                    "url": "https://one.iu.edu/",
-                                    "visit_count": 2
+                                    "url": "https://canvas.iu.edu/lms-prd/gateway",
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
                                     "keyword": "",
-                                    "name": "Canvas",
+                                    "name": "One.IU | IU Bloomington",
                                     "type": "url",
-                                    "url": "https://canvas.iu.edu/lms-prd/gateway",
-                                    "visit_count": 0
+                                    "url": "https://one.iu.edu/",
+                                    "visit_count": 2
                                 },
                                 {
                                     "description": "",
@@ -4570,7 +4570,7 @@
                                 }
                             ],
                             "description": "",
-                            "expanded": false,
+                            "expanded": true,
                             "expanded_sidebar": false,
                             "name": "Indiana University (iu.edu)",
                             "type": "folder"
@@ -5539,6 +5539,14 @@
                                     "name": "wsearch.gov.taipei",
                                     "type": "url",
                                     "url": "https://wsearch.gov.taipei/wise/s.jsp?q=App&d=306",
+                                    "visit_count": 0
+                                },
+                                {
+                                    "description": "",
+                                    "keyword": "",
+                                    "name": "臺北市北投區健康服務中心-活動訊息",
+                                    "type": "url",
+                                    "url": "https://www.bthc.gov.taipei/News.aspx?n=FD0450BB5831913E",
                                     "visit_count": 0
                                 }
                             ],
@@ -8154,7 +8162,7 @@
                                     "name": "Skype",
                                     "type": "url",
                                     "url": "https://web.skype.com/",
-                                    "visit_count": 0
+                                    "visit_count": 1
                                 }
                             ],
                             "description": "",
@@ -8194,7 +8202,7 @@
                             "name": "Messenger",
                             "type": "url",
                             "url": "https://www.messenger.com/",
-                            "visit_count": 7
+                            "visit_count": 8
                         },
                         {
                             "description": "",
@@ -9011,7 +9019,7 @@
                                     "name": "All Files | Powered by Box",
                                     "type": "url",
                                     "url": "https://iu.app.box.com/folder/0",
-                                    "visit_count": 0
+                                    "visit_count": 1
                                 },
                                 {
                                     "description": "",
